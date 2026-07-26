@@ -8,24 +8,16 @@
   - https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3
 - Next.js初心者向けガイドライン
   - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
-- 「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう
-  - https://zenn.dev/livetoon/articles/04dccf642d324c
 - パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする
   - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08
 - 【優先度順】Reactパフォーマンス改善ガイド：現場で効く最適化を影響度別に整理
   - https://zenn.dev/mitsuo119/articles/9f024181695001
-- ポケモンで学ぶオブジェクト指向〜SOLID原則編〜
-  - https://qiita.com/basio/items/7f5f2730b425cd95d39c
 - 【考察】React は何故こんなに分かりにくいのか？
   - https://zenn.dev/ak0047/articles/2026-01-react-difficulty
 - フロントエンドパフォーマンス完全ガイドを公開しました
   - https://zenn.dev/gaku1234/articles/frontend-performance-guide-2026
-- CSSカスタムプロパティをグリグリ動かせる「slideVars」が便利
-  - https://www.webcreatorbox.com/blog/slidevars
 - React 19の型定義では「FC」と「ReactNodeを返す関数」が違う
   - https://qiita.com/uhyo/items/0d6797b848ed41d0e697
-- 1ボタンで8機能を割り当て可能。サンワサプライのプログラマブルボタンが面白い！
-  - https://l.smartnews.com/m-77gkf516/f4xo99
 - React に触れてみる (2) — useState に関するタイミング問題を観察する
   - https://zenn.dev/derwind/articles/dwd-react-basic02
 - 副菜ビュッフェがうれしい！ スパイスカレーの人気店が神保町エリアに2号店をオープン
@@ -92,9 +84,23 @@
   - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
   - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
-- '`minimumReleaseAge`相当の機能の比較（pnpm / npm / Yarn / Deno / Bun）'
-  - https://zenn.dev/okayurisotto/articles/eaea301090f1cf
 - 【最新】AI設計はループからグラフへ。「Graph Engineering」という次の設計思想
   - https://note.com/kawaidesign/n/n9f6890665e5b
 - 'Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る'
   - https://zenn.dev/uhyo/articles/async-react-action-queue
+- AIエージェントが毎回同じミスをするのは、AGENTS.md / CLAUDE.md の書き方が9割かもしれません — 手戻りを減らす指示ファイル設計の実践ガイド（30行ルール・import・monorepo）
+  - https://qiita.com/akira_papa_AI/items/352abc9e678f13fa83e0
+- タスク管理にLinearを使ってみたらめちゃくちゃ良い体験だった
+  - https://zenn.dev/immedio/articles/333d213c1201a1
+- ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話
+  - https://zenn.dev/singularity/articles/diy-terminal-500-commits
+- 『攻殻機動隊』などを手がけた後藤隆幸の記念展
+  - https://www.fashion-press.net/news/149025
+- フロントエンドのコンポーネント分割に「判断基準」を与える ― CRD（認知責務設計）【1/3】
+  - https://zenn.dev/2_daiki_ando/articles/27c1db742e4a56
+- CSRFの仕組みを丁寧に解説 — なぜCookieだけでは「本人からのリクエスト」と言えないのか
+  - https://qiita.com/gts/items/1e9c395aee83bf30e03a
+- 「モンベル」の長袖なのに涼しい大人シャツ。肌面をドライに保ち、夏も快適！／mont-bell メリノウール ライト ロングスリーブシャツ
+  - https://www.mensnonno.jp/fashion/new-topics/777732/
+- 開発効率が上がったCLIツール・コマンド10選
+  - https://qiita.com/NekoByte/items/efa81aaa8a61d3478568
