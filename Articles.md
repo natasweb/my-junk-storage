@@ -90,17 +90,17 @@
   - https://zenn.dev/uhyo/articles/async-react-action-queue
 - AIエージェントが毎回同じミスをするのは、AGENTS.md / CLAUDE.md の書き方が9割かもしれません — 手戻りを減らす指示ファイル設計の実践ガイド（30行ルール・import・monorepo）
   - https://qiita.com/akira_papa_AI/items/352abc9e678f13fa83e0
-- タスク管理にLinearを使ってみたらめちゃくちゃ良い体験だった
-  - https://zenn.dev/immedio/articles/333d213c1201a1
 - ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話
   - https://zenn.dev/singularity/articles/diy-terminal-500-commits
-- 『攻殻機動隊』などを手がけた後藤隆幸の記念展
-  - https://www.fashion-press.net/news/149025
 - フロントエンドのコンポーネント分割に「判断基準」を与える ― CRD（認知責務設計）【1/3】
   - https://zenn.dev/2_daiki_ando/articles/27c1db742e4a56
 - CSRFの仕組みを丁寧に解説 — なぜCookieだけでは「本人からのリクエスト」と言えないのか
   - https://qiita.com/gts/items/1e9c395aee83bf30e03a
-- 「モンベル」の長袖なのに涼しい大人シャツ。肌面をドライに保ち、夏も快適！／mont-bell メリノウール ライト ロングスリーブシャツ
-  - https://www.mensnonno.jp/fashion/new-topics/777732/
-- 開発効率が上がったCLIツール・コマンド10選
-  - https://qiita.com/NekoByte/items/efa81aaa8a61d3478568
+- 1日500コミットは、もう読めない ── だからコードレビューをやめた
+  - https://zenn.dev/singularity/articles/stopped-reviewing-my-code
+- ふるさと納税した人、住民税がいくら安くなった？ 今年の控除額を確認するには？
+  - https://internet.watch.impress.co.jp/docs/readitnow/2127421.html
+- 世界一流のエンジニアとPMは、なぜ15時に帰るのか？
+  - https://l.smartnews.com/m-8bu0oxeU/psAQDy
+- 海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”
+  - https://l.smartnews.com/m-8bW1KrbW/kjVUXh
