@@ -70,8 +70,6 @@
   - https://zenn.dev/microsoft/articles/9fb85cdca2fb84
 - '[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ'
   - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
-- 基本からしっかり学ぶフロントエンドテスト入門
-  - https://gihyo.jp/book/2026/978-4-297-15704-3
 - git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点
   - https://l.smartnews.com/m-7ZJPuC9G/6flx3k
 - Fable時代のAI活用法を、Anthropicの開発者が公開
@@ -92,15 +90,9 @@
   - https://qiita.com/akira_papa_AI/items/352abc9e678f13fa83e0
 - ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話
   - https://zenn.dev/singularity/articles/diy-terminal-500-commits
-- フロントエンドのコンポーネント分割に「判断基準」を与える ― CRD（認知責務設計）【1/3】
-  - https://zenn.dev/2_daiki_ando/articles/27c1db742e4a56
-- CSRFの仕組みを丁寧に解説 — なぜCookieだけでは「本人からのリクエスト」と言えないのか
-  - https://qiita.com/gts/items/1e9c395aee83bf30e03a
 - 1日500コミットは、もう読めない ── だからコードレビューをやめた
   - https://zenn.dev/singularity/articles/stopped-reviewing-my-code
 - ふるさと納税した人、住民税がいくら安くなった？ 今年の控除額を確認するには？
   - https://internet.watch.impress.co.jp/docs/readitnow/2127421.html
-- 世界一流のエンジニアとPMは、なぜ15時に帰るのか？
-  - https://l.smartnews.com/m-8bu0oxeU/psAQDy
-- 海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”
-  - https://l.smartnews.com/m-8bW1KrbW/kjVUXh
+- Chromeをやめたら、ノートPCが別物みたいに軽くなった
+  - https://www.lifehacker.jp/article/2607replace-chrome-with-brave-browser-for-better-performance/
