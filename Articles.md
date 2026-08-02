@@ -8,16 +8,6 @@
   - https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3
 - Next.js初心者向けガイドライン
   - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
-- パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする
-  - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08
-- 【優先度順】Reactパフォーマンス改善ガイド：現場で効く最適化を影響度別に整理
-  - https://zenn.dev/mitsuo119/articles/9f024181695001
-- 【考察】React は何故こんなに分かりにくいのか？
-  - https://zenn.dev/ak0047/articles/2026-01-react-difficulty
-- フロントエンドパフォーマンス完全ガイドを公開しました
-  - https://zenn.dev/gaku1234/articles/frontend-performance-guide-2026
-- React 19の型定義では「FC」と「ReactNodeを返す関数」が違う
-  - https://qiita.com/uhyo/items/0d6797b848ed41d0e697
 - React に触れてみる (2) — useState に関するタイミング問題を観察する
   - https://zenn.dev/derwind/articles/dwd-react-basic02
 - 副菜ビュッフェがうれしい！ スパイスカレーの人気店が神保町エリアに2号店をオープン
@@ -76,8 +66,6 @@
   - https://zenn.dev/knowledgesense/articles/283244af941a2d
 - React初学者が学ぶ、Reactのキホン part-1
   - https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d
-- '[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました'
-  - https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/
 - 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
   - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
@@ -94,5 +82,7 @@
   - https://zenn.dev/singularity/articles/stopped-reviewing-my-code
 - ふるさと納税した人、住民税がいくら安くなった？ 今年の控除額を確認するには？
   - https://internet.watch.impress.co.jp/docs/readitnow/2127421.html
-- Chromeをやめたら、ノートPCが別物みたいに軽くなった
-  - https://www.lifehacker.jp/article/2607replace-chrome-with-brave-browser-for-better-performance/
+- 国内で使えるMCPサーバー114選を可視化、業務別逆引きや認証方式までわかるカオスマップ公開
+  - https://l.smartnews.com/m-8cg5LN72/ddyvzX
+- アンテナショップ
+  - https://www.tourism-alljapanandtokyo.org/category/shop?utm_source=gdn&utm_medium=display&utm_campaign=gdn_campaign2026&utm_term=jpn&utm_content=antenna&gad_source=1&gad_campaignid=24036910252&gbraid=0AAAABEJQazwZooeHv5jxBvc17EP4q98TA&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4aBcMr_lomTr3OtsJwPdG7BznlOb8yCv6jFAXLn8xeqypFJH-Abo8BoCQ0YQAvD_BwE
