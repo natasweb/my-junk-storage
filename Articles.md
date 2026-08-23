@@ -10,20 +10,12 @@
   - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
 - React に触れてみる (2) — useState に関するタイミング問題を観察する
   - https://zenn.dev/derwind/articles/dwd-react-basic02
-- 副菜ビュッフェがうれしい！ スパイスカレーの人気店が神保町エリアに2号店をオープン
-  - https://magazine.tabelog.com/articles/487733
 - Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
   - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
 - useEffect で API を叩くのを卒業しよう
   - https://zenn.dev/ashunar0/articles/32419c3c60cc53
-- '【世界先行】名店の「カニクリームパイ」が日本だけで解禁！料理王国3冠の「神パイ」新作が贅沢すぎて感動！サクサク生地が止まらない！ #Z世代Pick'
-  - https://l.smartnews.com/m-7bmCP9NC/PToO6S
 - 第１回（全５回）：React入門 — コンポーネントとJSXの基本
   - https://qiita.com/ysawa/items/a197e951cf5212130ee6
-- 和食料理人・野崎洋光さんが提案！ 目からウロコの「だし」の取り方
-  - https://l.smartnews.com/m-7bBeFIPe/KSJvM4
-- 【2026年版】カレーを愛する全ての人に伝えたい絶品カレー11選まとめ。王道からご当地カレーまで
-  - https://l.smartnews.com/m-7bAXEdck/5eZXP7
 - レンチンで時短発酵！蜂蜜×チーズが甘じょっぱい「フライパンでチーズナン」
   - https://l.smartnews.com/m-7dx3vQfm/cxhHwR
 - WEBアプリ開発でよく使うデザインパターンを整理する
@@ -34,8 +26,6 @@
   - https://note.com/dev_onecareer/n/n36c37a2b777d
 - 「再生122万回超え！鍋にドボン！」と入れる瞬間が快感！週末に切って冷凍するだけの『ねぎ豚塩レモン鍋』がQOL爆上がりする神アイデアだった
   - https://l.smartnews.com/m-7gAV1NxC/efVZ5R
-- 【極上グルメ総集編】実際に食べて美味すぎて感動した焼肉屋10選 / 東京編
-  - https://l.smartnews.com/m-7fTQOYKI/XGikQq
 - ポテトグラタンより簡単。ドフィノアという、冬のごちそう
   - https://l.smartnews.com/m-7eQq64ms/lAmx1t
 - 【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】
@@ -44,45 +34,31 @@
   - https://gendai.media/articles/-/164493
 - 【5年で1億貯める】資産がみるみる増えていく「最強スクリーニング法」3つのポイント
   - https://l.smartnews.com/m-7jg85vpK/PBxFsm
-- Rust製JSツールチェーンが主流になりつつある理由 — Biome・Oxc・Rolldown の実践ガイド
-  - https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain
 - これはかなりおすすめ！ Reactを使えるようなりたい人に、入門書の決定版 -挫折しないReactの教科書
   - https://coliss.com/articles/book-review/isbn-9784815636623.html
 - TypeScript時代におけるGoFデザインパターンの再考と、現代の代替手法10選
   - https://qiita.com/ryuseiyarou/items/822cf3fb3f8c3ffb1e87
-- Reactのフラグ地獄を状態遷移テーブルで解消する — Discriminated Union×テーブル駆動設計の実践
-  - https://zenn.dev/okamyuji/articles/react-state-pattern-finite-state-machine
 - Reactコンポーネントの肥大化を防ぐ：hooksによる分離設計
   - https://qiita.com/koichi2426/items/2df7e5c0a3e188d269c4
 - Reactにおけるカスタムフックの利用ガイド
   - https://qiita.com/minoura_a/items/b03e0f28ed023712279b
-- GitHub Copilot CLIを"タダ"で体系的に学べるコースをやってみた
-  - https://zenn.dev/microsoft/articles/9fb85cdca2fb84
 - '[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ'
   - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
 - git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点
   - https://l.smartnews.com/m-7ZJPuC9G/6flx3k
-- Fable時代のAI活用法を、Anthropicの開発者が公開
-  - https://zenn.dev/knowledgesense/articles/283244af941a2d
 - React初学者が学ぶ、Reactのキホン part-1
   - https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d
 - 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
   - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
   - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
-- 【最新】AI設計はループからグラフへ。「Graph Engineering」という次の設計思想
-  - https://note.com/kawaidesign/n/n9f6890665e5b
-- 'Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る'
-  - https://zenn.dev/uhyo/articles/async-react-action-queue
-- AIエージェントが毎回同じミスをするのは、AGENTS.md / CLAUDE.md の書き方が9割かもしれません — 手戻りを減らす指示ファイル設計の実践ガイド（30行ルール・import・monorepo）
-  - https://qiita.com/akira_papa_AI/items/352abc9e678f13fa83e0
-- ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話
-  - https://zenn.dev/singularity/articles/diy-terminal-500-commits
-- 1日500コミットは、もう読めない ── だからコードレビューをやめた
-  - https://zenn.dev/singularity/articles/stopped-reviewing-my-code
-- ふるさと納税した人、住民税がいくら安くなった？ 今年の控除額を確認するには？
-  - https://internet.watch.impress.co.jp/docs/readitnow/2127421.html
-- 国内で使えるMCPサーバー114選を可視化、業務別逆引きや認証方式までわかるカオスマップ公開
-  - https://l.smartnews.com/m-8cg5LN72/ddyvzX
 - アンテナショップ
   - https://www.tourism-alljapanandtokyo.org/category/shop?utm_source=gdn&utm_medium=display&utm_campaign=gdn_campaign2026&utm_term=jpn&utm_content=antenna&gad_source=1&gad_campaignid=24036910252&gbraid=0AAAABEJQazwZooeHv5jxBvc17EP4q98TA&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4aBcMr_lomTr3OtsJwPdG7BznlOb8yCv6jFAXLn8xeqypFJH-Abo8BoCQ0YQAvD_BwE
+- コードレビューの教科書
+  - https://gihyo.jp/book/2026/978-4-297-15768-5
+- useEffectの本来の役割
+  - https://zenn.dev/fujishu/articles/f2c10d1545db99
+- 日本バインミー協会、「ベストバインミー2026」受賞3店舗を発表
+  - https://www.viet-jo.com/news/nikkei/260813175052.html
+- 後ろから迫る車が怖い、自転車の車道走行。お手頃価格のリアカメラで安全対策してみた
+  - https://www.lifehacker.jp/article/machi-ya-backeye-review-940565/#cxrecs_s
