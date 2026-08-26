@@ -46,8 +46,6 @@
   - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
 - git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点
   - https://l.smartnews.com/m-7ZJPuC9G/6flx3k
-- React初学者が学ぶ、Reactのキホン part-1
-  - https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d
 - 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
   - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
@@ -56,9 +54,13 @@
   - https://www.tourism-alljapanandtokyo.org/category/shop?utm_source=gdn&utm_medium=display&utm_campaign=gdn_campaign2026&utm_term=jpn&utm_content=antenna&gad_source=1&gad_campaignid=24036910252&gbraid=0AAAABEJQazwZooeHv5jxBvc17EP4q98TA&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4aBcMr_lomTr3OtsJwPdG7BznlOb8yCv6jFAXLn8xeqypFJH-Abo8BoCQ0YQAvD_BwE
 - コードレビューの教科書
   - https://gihyo.jp/book/2026/978-4-297-15768-5
-- useEffectの本来の役割
-  - https://zenn.dev/fujishu/articles/f2c10d1545db99
 - 日本バインミー協会、「ベストバインミー2026」受賞3店舗を発表
   - https://www.viet-jo.com/news/nikkei/260813175052.html
 - 後ろから迫る車が怖い、自転車の車道走行。お手頃価格のリアカメラで安全対策してみた
   - https://www.lifehacker.jp/article/machi-ya-backeye-review-940565/#cxrecs_s
+- MMOの“タンクだけ”を気軽に楽しめる1人用ローグライト『Don’t Lose Aggro』大型アプデのプレイテストが開催中。骸骨のミニオンを従える「サモナー」など追加
+  - https://news.denfaminicogamer.jp/news/260823p
+- XENEON EDGE 14.5 インチ LCD タッチスクリーン、ホワイト
+  - https://www.corsair.com/jp/ja/p/monitors/cc-9011311-ww/corsair-xeneon-edge-14-5-lcd-touchscreen-white-cc-9011311-ww?utm_source=google&utm_medium=cpc&utm_campaign=Xeneon_Edge_JP&gad_source=1&gad_campaignid=23916372683&gbraid=0AAAAADPCiRdx26_JCJCC4D5U-UhF4bN7i&gclid=CjwKCAjwtKrUBhAhEiwAr77ZopuT5Sx6hk7ybAkoVQRKHzoFdBVuYNOSURihErlr3xPnPgjv2jJdjxoCP7QQAvD_BwE
+- 古いエアコンでも賃貸でもOK。コンセントに挿すだけでスマホ操作できるようになるプラグ
+  - https://www.lifehacker.jp/article/2608-costorypo-smartairconset-end-1258488008/
