@@ -38,16 +38,6 @@
   - https://coliss.com/articles/book-review/isbn-9784815636623.html
 - TypeScript時代におけるGoFデザインパターンの再考と、現代の代替手法10選
   - https://qiita.com/ryuseiyarou/items/822cf3fb3f8c3ffb1e87
-- Reactコンポーネントの肥大化を防ぐ：hooksによる分離設計
-  - https://qiita.com/koichi2426/items/2df7e5c0a3e188d269c4
-- Reactにおけるカスタムフックの利用ガイド
-  - https://qiita.com/minoura_a/items/b03e0f28ed023712279b
-- '[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ'
-  - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
-- git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点
-  - https://l.smartnews.com/m-7ZJPuC9G/6flx3k
-- 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
-  - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
   - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
 - アンテナショップ
@@ -56,11 +46,11 @@
   - https://gihyo.jp/book/2026/978-4-297-15768-5
 - 日本バインミー協会、「ベストバインミー2026」受賞3店舗を発表
   - https://www.viet-jo.com/news/nikkei/260813175052.html
-- 後ろから迫る車が怖い、自転車の車道走行。お手頃価格のリアカメラで安全対策してみた
-  - https://www.lifehacker.jp/article/machi-ya-backeye-review-940565/#cxrecs_s
 - MMOの“タンクだけ”を気軽に楽しめる1人用ローグライト『Don’t Lose Aggro』大型アプデのプレイテストが開催中。骸骨のミニオンを従える「サモナー」など追加
   - https://news.denfaminicogamer.jp/news/260823p
-- XENEON EDGE 14.5 インチ LCD タッチスクリーン、ホワイト
-  - https://www.corsair.com/jp/ja/p/monitors/cc-9011311-ww/corsair-xeneon-edge-14-5-lcd-touchscreen-white-cc-9011311-ww?utm_source=google&utm_medium=cpc&utm_campaign=Xeneon_Edge_JP&gad_source=1&gad_campaignid=23916372683&gbraid=0AAAAADPCiRdx26_JCJCC4D5U-UhF4bN7i&gclid=CjwKCAjwtKrUBhAhEiwAr77ZopuT5Sx6hk7ybAkoVQRKHzoFdBVuYNOSURihErlr3xPnPgjv2jJdjxoCP7QQAvD_BwE
-- 古いエアコンでも賃貸でもOK。コンセントに挿すだけでスマホ操作できるようになるプラグ
-  - https://www.lifehacker.jp/article/2608-costorypo-smartairconset-end-1258488008/
+- 'GitHub - github/app: This is the home for releases and issues for the GitHub
+  - https://github.com/github/app
+- ドキュメントを書くのをやめて、育てることにした──AI駆動開発におけるWiki管理、CodeAlmanacを試してみた
+  - https://zenn.dev/explaza/articles/5ccd14f81a6dc7
+- 日本一のバーガー店が東京ミズマチに。初のモーニング営業で朝8時から楽しめる全4種を紹介
+  - https://l.smartnews.com/m-8ntFb2co/bSYmTu
