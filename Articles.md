@@ -8,14 +8,8 @@
   - https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3
 - Next.js初心者向けガイドライン
   - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
-- React に触れてみる (2) — useState に関するタイミング問題を観察する
-  - https://zenn.dev/derwind/articles/dwd-react-basic02
 - Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
   - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
-- useEffect で API を叩くのを卒業しよう
-  - https://zenn.dev/ashunar0/articles/32419c3c60cc53
-- 第１回（全５回）：React入門 — コンポーネントとJSXの基本
-  - https://qiita.com/ysawa/items/a197e951cf5212130ee6
 - レンチンで時短発酵！蜂蜜×チーズが甘じょっぱい「フライパンでチーズナン」
   - https://l.smartnews.com/m-7dx3vQfm/cxhHwR
 - WEBアプリ開発でよく使うデザインパターンを整理する
@@ -54,3 +48,15 @@
   - https://zenn.dev/explaza/articles/5ccd14f81a6dc7
 - 日本一のバーガー店が東京ミズマチに。初のモーニング営業で朝8時から楽しめる全4種を紹介
   - https://l.smartnews.com/m-8ntFb2co/bSYmTu
+- 1億種類以上の装備が登場する、レトロスタイルなARPGが“非常に好評”のリリース。スキルを駆使し、深淵を突破せよ―採れたて！本日のSteam注目ゲーム17選【2026年8月27日】
+  - https://www.gamespark.jp/article/2026/08/27/171391.html
+- GitHub Copilotのreview effort levelsで何が変わる？8月7日GAのLite/Balanced・自動レビュー既定値・AI
+  - https://hellocraftai.com/blog/github-copilot-review-effort-levels-lite-balanced-ai-credits-guide-2026/
+- 並行開発に Orca がめちゃ便利
+  - https://zenn.dev/rhosokawa/articles/d0a958c17c2820
+- 理想のブラウザーへと進化した「Firefox」--再評価の決め手は5つの機能 - (page 2)
+  - https://japan.zdnet.com/article/35251979/2/
+- 多観点で比較する Lambdalith vs 単一目的 Lambda
+  - https://dev.classmethod.jp/articles/lambdalith-vs-single-purpose-lambda/
+- Kiro５兄弟のいまどきのセキュリティ基礎知識 ― Kiro CLIとDraw.io MCPで信頼境界を描くまで
+  - https://qiita.com/kamogashira/items/519a52614ba113bfe9cb
