@@ -1,0 +1,9 @@
+$ type C:\Users\ooi\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
+function prompt { '$ ' }
+$PSStyle.OutputRendering = 'PlainText'
+$PSStyle.FileInfo.Directory = ''
+Set-PSReadLineOption -PredictionSource None
+
+# ネイティブコマンド終了時にウィンドウタイトルの復元シーケンスが
+# 出力へ混入するのを防ぐため、タイトルを空にする
+$Host.UI.RawUI.WindowTitle = ''
