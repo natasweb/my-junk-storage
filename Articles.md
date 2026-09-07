@@ -60,3 +60,21 @@
   - https://dev.classmethod.jp/articles/lambdalith-vs-single-purpose-lambda/
 - Kiro５兄弟のいまどきのセキュリティ基礎知識 ― Kiro CLIとDraw.io MCPで信頼境界を描くまで
   - https://qiita.com/kamogashira/items/519a52614ba113bfe9cb
+- GitHub Actionsで「無料のLinuxデスクトップ」が立ち上がる
+  - https://l.smartnews.com/m-8pckwcGk/C3qIYt
+- Codex App Serverとは？｜codex mcp-server非推奨化で何が変わるのか
+  - https://l.smartnews.com/m-8p9uBIIw/zU5X4H
+- Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減
+  - https://gigazine.net/news/20260903-google-mantis-open-source/
+- 第925回UbuntuでセルフホストFaaS「Orva」を使ってみよう
+  - https://gihyo.jp/admin/serial/01/ubuntu-recipe/0925
+- ノイズリング
+  - https://shonenjumpplus.com/episode/9253191256340472382
+- 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
+  - https://natalie.mu/comic/news/687841
+- 硬派なコロニーシム×ダンジョンクロウル「ダンジョンセトラーズ」，アーリーアクセスをスタート。9月18日まではローンチセールが開催
+  - https://www.4gamer.net/games/009/G100999/20260904043/
+- 1巻完結ラノベの傑作『MONUMENT あるいは自分自身の怪物』
+  - https://dain.cocolog-nifty.com/myblog/2026/09/1monument-7496.html
+- HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録
+  - https://zenn.dev/coji/articles/solo-software-factory-without-reading-code
