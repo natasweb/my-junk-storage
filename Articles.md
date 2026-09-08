@@ -78,3 +78,9 @@
   - https://dain.cocolog-nifty.com/myblog/2026/09/1monument-7496.html
 - HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録
   - https://zenn.dev/coji/articles/solo-software-factory-without-reading-code
+- 闇覚醒して主人公にボコされるかませ犬に憑依したが原作と違いすぎて戸惑ってる
+  - https://pocket.shonenmagazine.com/title/03249/episode/439106
+- HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など
+  - https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html
+- 「C:¥Windows¥Installer」フォルダーは消すな！ 理由をマイクロソフトが解説
+  - https://forest.watch.impress.co.jp/docs/news/2138949.html
