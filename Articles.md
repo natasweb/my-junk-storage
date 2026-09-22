@@ -12,14 +12,10 @@
   - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
 - レンチンで時短発酵！蜂蜜×チーズが甘じょっぱい「フライパンでチーズナン」
   - https://l.smartnews.com/m-7dx3vQfm/cxhHwR
-- WEBアプリ開発でよく使うデザインパターンを整理する
-  - https://zenn.dev/frontline/articles/1ded5a62ace83e
 - 【React】Strategyパターン実践編 〜マルチテナント対応を例に〜
   - https://zenn.dev/sakisakiika/articles/f41abf4e0160a7
 - Reactデザインパターンに向き合う「なぜそのパターンを選ぶのか？」｜ONE CAREER Tech Blog
   - https://note.com/dev_onecareer/n/n36c37a2b777d
-- 「再生122万回超え！鍋にドボン！」と入れる瞬間が快感！週末に切って冷凍するだけの『ねぎ豚塩レモン鍋』がQOL爆上がりする神アイデアだった
-  - https://l.smartnews.com/m-7gAV1NxC/efVZ5R
 - ポテトグラタンより簡単。ドフィノアという、冬のごちそう
   - https://l.smartnews.com/m-7eQq64ms/lAmx1t
 - 【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】
@@ -40,16 +36,10 @@
   - https://gihyo.jp/book/2026/978-4-297-15768-5
 - 日本バインミー協会、「ベストバインミー2026」受賞3店舗を発表
   - https://www.viet-jo.com/news/nikkei/260813175052.html
-- MMOの“タンクだけ”を気軽に楽しめる1人用ローグライト『Don’t Lose Aggro』大型アプデのプレイテストが開催中。骸骨のミニオンを従える「サモナー」など追加
-  - https://news.denfaminicogamer.jp/news/260823p
-- 'GitHub - github/app: This is the home for releases and issues for the GitHub
-  - https://github.com/github/app
 - ドキュメントを書くのをやめて、育てることにした──AI駆動開発におけるWiki管理、CodeAlmanacを試してみた
   - https://zenn.dev/explaza/articles/5ccd14f81a6dc7
 - 日本一のバーガー店が東京ミズマチに。初のモーニング営業で朝8時から楽しめる全4種を紹介
   - https://l.smartnews.com/m-8ntFb2co/bSYmTu
-- 1億種類以上の装備が登場する、レトロスタイルなARPGが“非常に好評”のリリース。スキルを駆使し、深淵を突破せよ―採れたて！本日のSteam注目ゲーム17選【2026年8月27日】
-  - https://www.gamespark.jp/article/2026/08/27/171391.html
 - GitHub Copilotのreview effort levelsで何が変わる？8月7日GAのLite/Balanced・自動レビュー既定値・AI
   - https://hellocraftai.com/blog/github-copilot-review-effort-levels-lite-balanced-ai-credits-guide-2026/
 - 並行開発に Orca がめちゃ便利
@@ -68,47 +58,23 @@
   - https://gigazine.net/news/20260903-google-mantis-open-source/
 - 第925回UbuntuでセルフホストFaaS「Orva」を使ってみよう
   - https://gihyo.jp/admin/serial/01/ubuntu-recipe/0925
-- ノイズリング
-  - https://shonenjumpplus.com/episode/9253191256340472382
 - 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
   - https://natalie.mu/comic/news/687841
-- 硬派なコロニーシム×ダンジョンクロウル「ダンジョンセトラーズ」，アーリーアクセスをスタート。9月18日まではローンチセールが開催
-  - https://www.4gamer.net/games/009/G100999/20260904043/
-- 1巻完結ラノベの傑作『MONUMENT あるいは自分自身の怪物』
-  - https://dain.cocolog-nifty.com/myblog/2026/09/1monument-7496.html
-- HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録
-  - https://zenn.dev/coji/articles/solo-software-factory-without-reading-code
-- 闇覚醒して主人公にボコされるかませ犬に憑依したが原作と違いすぎて戸惑ってる
-  - https://pocket.shonenmagazine.com/title/03249/episode/439106
-- HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など
-  - https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html
-- 「C:¥Windows¥Installer」フォルダーは消すな！ 理由をマイクロソフトが解説
-  - https://forest.watch.impress.co.jp/docs/news/2138949.html
-- 戦場のほぼすべてのオブジェクトに干渉できる“非常に好評”ターン制SRPGが正式リリース。戦闘中に壁を築き、木を伐採し、川を凍らせる―採れたて！本日のSteam注目ゲーム3選【2026年9月8日】
-  - https://www.gamespark.jp/article/2026/09/08/171938.html
-- 新作TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』豪華特典満載のBlu-ray BOX 12月23日(水)決定!!
-  - https://v-storage.jp/anime/koukaku/285837/
-- ライトノベル『ブラック・ブレット』が12年の時を経て再始動！『ブラック・ブレット 新世界秩序』が11月から4ヶ月連続で刊行される
-  - https://news.denfaminicogamer.jp/news/2609092b
-- 『VA-11 Hall-A』開発元の新作『.45 パラベラム ブラッドハウンド』TGS2026へのプレイアブル出展が決定。殺し屋の女が運命に抗うサイバーパンクアクション
-  - https://news.denfaminicogamer.jp/news/260908l
 - Git の main ブランチを汚さない AI 振り返り台帳管理
   - https://kawasin73.hatenablog.com/entry/2026/09/02/125317
-- ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？
-  - https://qiita.com/ryosuke_ohori/items/f8eaad0ddba954e2ebb6
 - 海と大地が育てた青森の“んめぇ”が東京・日比谷に大集合！「んめぇ青森フェス2026in日比谷公園」9月18日（金）～20日（日）開催 コピー
   - https://prtimes.jp/main/html/rd/p/000000082.000036413.html
-- 欲張って死ぬSRPG『幻世録 リメイク』は「人の欲望」を引き出すのが上手。経験値“倍プッシュ”でレベル上げまくりクラスチェンジで勝ちまくり、ドーパミン欲しさに戦略が狂う
-  - https://automaton-media.com/articles/columnjp/20260912-466986/
 - 【カルドセプトビギンズ】最強カードまとめ
   - https://appmedia.jp/culdcept_begins/80212792
 - フランス展 2026
   - https://www.mistore.jp/shopping/event/nihombashi_e/france_50
-- FREAK'S STORE
-  - https://www.daytona-park.com/item/1052390900010
-- 科学技術館 パネル企画展「百鬼騒乱 ～災いと妖怪伝承～」
-  - https://www.jsf.or.jp/event/youkai
 - 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
   - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
 - 「優秀な人のAIの設定・やり取り」をチーム全員で自動共有できる無料ツール「TeamAI」が商用利用可で登場（生成AIクローズアップ）
   - https://www.techno-edge.net/article/2026/09/16/5503.html
+- Windows + AIコーディングエージェントで踏んだ罠をまとめた
+  - https://zenn.dev/mukuil_blog/articles/9a048ea2e8dec4
+- Kiro Crew でソフトウェアファクトリーを構築し、1 週間で 1000 件の PR をマージした方法
+  - https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/
+- 【カルドセプトビギンズ】最強ブック(デッキ)まとめ
+  - https://appmedia.jp/culdcept_begins/80218486
