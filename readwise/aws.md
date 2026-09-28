@@ -1,0 +1,18 @@
+- AWSをこれから始める学生への圧倒的なインプット
+  - https://speakerdeck.com/cmusudakeisuke/awswokorekarashi-meruxue-sheng-hefalseya-dao-de-nainhututo?slide=15
+- これからサーバレスに入門したい人に AWS Hands-on for Beginners ~Serverless 編~ がおすすめ
+  - https://dev.classmethod.jp/beginners/aws-serverless-handson-recommend/
+- “AWS 上で静的な Web サイトを公開しよう！” 編を公開しました！- Monthly AWS Hands-on for Beginners 2020年5月号
+  - https://aws.amazon.com/jp/blogs/news/aws-hands-on-for-beginners-07/
+- AWSの膨大で複雑なサービス群をすべて「たった1行」で説明していくとこうなる
+  - https://gigazine.net/news/20200528-aws-one-line-explanation/
+- GraphQL APIを簡単に作成 & 運用。AWS AppSync をグラレコで解説
+  - https://aws.amazon.com/jp/builders-flash/202111/awsgeek-appsync/?trk=ba_builders_flash_smn_awsgeek-appsync_02&trkCampaign=builders_flash&sc_campaign=builders_flash&sc_channel=BA&sc_publisher=SmartNews&sc_country=JP&sc_geo=JAPN&sc_medium=FIELD-JP
+- zstd 圧縮したコンテナイメージを使用して AWS Fargate の起動時間を短縮する
+  - https://aws.amazon.com/jp/blogs/news/reducing-aws-fargate-startup-times-with-zstd-compressed-container-images/
+- Lambda の運用面でのベストプラクティスを学べる「AWS Lambda Operator Guide」を読んだ
+  - https://kakakakakku.hatenablog.com/entry/2023/05/08/094426
+- AWS上のNext.js App RouterとCDNキャッシュ利用の課題と解決策
+  - https://tech.findy.co.jp/entry/2024/11/05/070000
+- AWSのIAMロールに必要な権限が付与されているかシミュレートするCLIツールを書いた
+  - https://blog.utgw.net/entry/2024/11/29/220827
