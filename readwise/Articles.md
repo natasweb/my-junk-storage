@@ -70,3 +70,13 @@
   - https://l.smartnews.com/m-8yY3mZJ6/niyZHd
 - イオンでもららぽーとでもない！｢新興勢力｣が五反田に開いた"ミシュラン級フードコート"の圧倒的実力
   - https://l.smartnews.com/m-8zjtCI2A/omfoeE
+- 「ずば抜けて家賃安いな」 東京23区内で“面積あたりの家賃が安い駅”第1位に「とても住みやすい平和な街」「ディズニーランドに近い」の声
+  - https://l.smartnews.com/m-8A9b573i/fvT2H9
+- 「何もかも便利で良かった」 東京駅30分以内で“家賃相場が安い駅”第1位に「ゆったりした空気感でストレスゼロ」「商業施設が多くて住みやすい」
+  - https://l.smartnews.com/m-8AypK2Lm/PmnHja
+- 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に
+  - https://forest.watch.impress.co.jp/docs/news/2144295.html
+- 東武池袋で「北陸・信越展」 富山、石川、福井、新潟、長野から88店
+  - https://ikebukuro.keizai.biz/headline/4002/
+- 個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた
+  - https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2
