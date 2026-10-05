@@ -10,8 +10,6 @@
   - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
 - Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
   - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
-- レンチンで時短発酵！蜂蜜×チーズが甘じょっぱい「フライパンでチーズナン」
-  - https://l.smartnews.com/m-7dx3vQfm/cxhHwR
 - 【React】Strategyパターン実践編 〜マルチテナント対応を例に〜
   - https://zenn.dev/sakisakiika/articles/f41abf4e0160a7
 - Reactデザインパターンに向き合う「なぜそのパターンを選ぶのか？」｜ONE CAREER Tech Blog
@@ -80,3 +78,41 @@
   - https://ikebukuro.keizai.biz/headline/4002/
 - 個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた
   - https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2
+- 無印良品　「レンジで焼き料理 グリルプレート」を新発売 | ニュース | 株式会社良品計画
+  - https://www.ryohin-keikaku.jp/news/articles/2026_0930_01
+- 赤羽駅に「全国各地の銘菓」が集結！『ダメ人間スパイス』に『おうちでぼんご』など♪
+  - https://akabane-shinbun.com/archives/266532
+- 猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始
+  - https://www.4gamer.net/games/914/G091464/20260930004/
+- AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ
+  - https://www.publickey1.jp/blog/26/awsaistrandsllm.html
+- マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る
+  - https://pc.watch.impress.co.jp/docs/topic/special/2141205.html?gad_source=1&gad_campaignid=24301630681&gbraid=0AAAAADl2yPoW5GCXwUIT4LbXUFJf7FSNr&gclid=Cj0KCQjw5vLVBhCiARIsAD56SFLNLxzABF3FzLDXGw1N5t2__7PGINlCo7K9A9awmUxpsiGSFcZc8ogaAoY0EALw_wcB
+- 'WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由'
+  - https://softantenna.com/blog/wsl-containers-ga-summary/
+- OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も
+  - https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/
+- 松屋の「ほうれん草とカッテージチーズのカレー」をもっと本気のインド料理にする方法
+  - https://getnews.jp/archives/3745981
+- 古（いにしえ）のストーブがカセットガスで大進化。やかんも載るよ
+  - https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/
+- 火事の心配なく30年持つ「水系電池」がいよいよ量産に入った
+  - https://www.gizmodo.jp/article/water-battery-30-years-enervenue/
+- 愛を求め、叶わず、鬼に変貌したOLの情念を描く「佐江子は思う」
+  - https://natalie.mu/comic/news/691736
+- Google App Script/スプレッドシート/Workspace…Googleサービス使いこなし本が安い！
+  - https://forest.watch.impress.co.jp/docs/bookwatch/sale/2143970.html
+- ゲスモブ - 異世界召喚に巻き込まれたけどアイテムボックスに引きこもって日本へ帰る準備中。ギャルが居候してるけど何か質問ある？ -
+  - https://kakuyomu.jp/works/1177354054921026800
+- 軽やかで心地よい打鍵感のメカニカルキーボード"Leggero（レジェロ）"シリーズよりキータイプやサイズから選べる4種の有線キーボードを新発売
+  - https://prtimes.jp/main/html/rd/p/000001551.000026881.html
+- コスモライフ【業界最小クラス※】“小さくてかわいい” 卓上浄水型ウォーターサーバー『cotoris(コトリス)』10月5日発売
+  - https://www.atpress.ne.jp/news/637343
+- 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能
+  - https://l.smartnews.com/m-8BWmxaAo/TeoFJP
+- Claude Code が編集した Markdown のテーブルを Markdown All in One と同じ形に自動で揃える
+  - https://zenn.dev/takuyayukat/articles/625ef992cf68cb
+- localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要
+  - https://l.smartnews.com/m-8CkENA3e/mJabCR
+- AWSにログインする方法8選
+  - https://zenn.dev/aws_japan/articles/aws-login-methods
