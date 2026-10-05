@@ -1,34 +1,34 @@
 # Install powers
 
 > 元URL: https://kiro.dev/docs/powers/installation/  
-> 最終取り込み日: 2026-09-05  
+> 最終取り込み日: 2026-10-06  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
 
-厳選されたパートナー、コミュニティ、またはチームのプライベートツールからパワーをインストールできます。Kiroは、[Agent Plugins](https://agent-plugins.org/)形式（`plugin.json`）とレガシー形式（`POWER.md`）の両方をサポートしており、形式にかかわらずインストール手順は同じです。
+厳選されたパートナー、コミュニティ、チームのプライベートツール、またはローカルディレクトリからパワーをインストールして管理できます。Kiroは、[Agent Plugins](https://agent-plugins.org/)形式（`plugin.json`）とレガシー形式（`POWER.md`）の両方をサポートしており、形式にかかわらずインストール手順は同じです。
 
 ## 厳選されたパワーのインストール
 
-Datadog、Dynatrace、Figma、Neon、Netlify、Postman、Supabase、Stripe、Strands SDK、AWS Auroraなど、公式[レジストリ](https://kiro.dev/powers/)のパワーを閲覧できます。
+Datadog、Dynatrace、Figma、Neon、Netlify、Postman、Supabase、Stripe、Strands SDK、AWS Aurora など、公式[レジストリ](https://kiro.dev/powers/)のパワーを閲覧できます。
 
 ### kiro.devより
 
 1. [kiro.dev/powers](https://kiro.dev/powers/) でパワーを閲覧
-2. パワーを選択し、「**Kiroに追加」**をクリックしてください
+2. パワーを選択し、「**Kiroに追加」**をクリック
 3. Kiro IDEが開き、ワンクリックでインストールを完了できます
 
 ### IDE から
 
-1. 「powers」パネルを開き、**稲妻のついたゴーストのアイコン**をクリックします
-2. パワーを選択して詳細を確認
+1. 「powers」パネルを開き、**稲妻の付いたゴーストのアイコン**をクリックします
+2. パワーを選択して詳細を表示
 3. **「+ インストール」**を選択します
 
 これで、**そのパワーを試して**オンボーディングを進めることができます。そのパワーに関連する質問をするたびに、Kiroエージェントが自動的に起動し、そのパワーを使用します。
 
 ### MCP を含むパワー
 
-Model Context Protocol（MCP）の統合機能を含むパワーをインストールすると、Kiroは競合を避けるためにサーバー名に自動的にネームスペースを付与し、MCPサーバーを管理します。
+Model Context Protocol（MCP）の統合を含むパワーをインストールすると、Kiroは競合を避けるためにサーバー名に自動的にネームスペースを付与し、MCPサーバーを管理します。
 
 - **エージェントプラグイン形式（plugin.json）：**MCPサーバーはKiroによって内部的に管理され、ユーザーレベルの`~/.kiro/settings/mcp.json`ファイルには追加されません。これらはパワーとともに有効化および無効化されます。
 - **レガシー形式（POWER.md）：**MCPサーバーは、`~/.kiro/settings/mcp.json`設定ファイルの「Powers」セクションに登録されます。
@@ -46,9 +46,9 @@ Model Context Protocol（MCP）の統合機能を含むパワーをインスト�
 
 ### ローカルパスから
 
-プライベートリポジトリ内で作成または管理するパワーについては、リポジトリをローカルにクローンし、ローカルパスからインストールしてください。
+プライベートリポジトリで作成または管理するパワーについては、リポジトリをローカルにクローンし、ローカルパスからインストールしてください。
 
-1. 「Powers」パネル → 「**カスタムパワーを追加」**
+1. Powers パネル → **カスタム Power の追加**
 2. **「フォルダからパワーをインポート」**を選択
 3. plugin.json または POWER.md を含むパワーディレクトリを選択
 4. **「インストール」**をクリック
@@ -64,7 +64,7 @@ my-custom-power/
         └── SKILL.md
 ```
 
-## パワーズの更新
+## Powersの更新
 
 パワーを最新バージョンに更新するには：
 

@@ -1,28 +1,28 @@
 # Built-in tools
 
 > 元URL: https://kiro.dev/docs/tools/  
-> 最終取り込み日: 2026-09-05  
+> 最終取り込み日: 2026-10-06  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
 
-Kiroのエージェントには、開発タスク用の組み込みツールが含まれています。これらは統合エージェントハーネスによって提供され、各インターフェース間で共有されます。デフォルトのエージェントはすべての組み込みツールにアクセスできますが、カスタムエージェントではこのアクセス権を制限することができます。
+Kiroのエージェントには、開発タスク用の組み込みツールが含まれています。これらは統合エージェント・ハーネスによって提供され、各インターフェース間で共有されます。デフォルトのエージェントはすべての組み込みツールにアクセスできますが、カスタムエージェントではこのアクセス権を制限することができます。
 
 **概要：**
 
 |  |  |
 | --- | --- |
-| **クロスサーフェス** | ファイルの読み書き、シェル、Web検索・取得、サブエージェント、コンテキスト、タスク追跡、イントロスペクション |
+| **クロスサーフェス** | ファイルの読み書き、シェル、Web検索・取得、サブエージェント、コンテキスト、イントロスペクション |
 | **IDEおよびCLI** | フックの作成 |
-| **IDEとWeb** | Powers (`kiro_powers`) |
+| **IDEとWeb** | 機能 (`kiro_powers`) |
 | **IDEのみ** | バックグラウンドプロセス（開発用サーバー）、エディタのコード解析（`read_code`、セマンティックリネーム） |
 | **CLIのみ** | コードインテリジェンス（`code`）、ゴール、セッション設定、MCP ツール検索（`tool_search`）、ナレッジ（実験的）、シンキング（実験的） |
-| **非推奨** | `aws`、`delegate` - 置き換え予定 |
-| **設定** | [カスタムエージェント](https://kiro.dev/docs/custom-agents/)を使用`tools`フィールド + [権限](https://kiro.dev/docs/permissions/) |
+| **非推奨** | `aws`、`delegate` — 置き換え予定 |
+| **設定** | [カスタムエージェント](https://kiro.dev/docs/custom-agents/)の使用`tools`フィールド + [権限](https://kiro.dev/docs/permissions/) |
 
 ## ツールカタログ
 
-以下のすべてのツールは、IDE、CLI、Web、およびモバイルで利用可能です。
+以下のカタログには、Kiroの各サーフェスに組み込まれているツールが網羅されています。利用可能かどうかは、サーフェスやエージェントエンジンによって異なる場合があります。
 
 | ツール | カテゴリ | 説明 |
 | --- | --- | --- |
@@ -40,11 +40,11 @@ Kiroのエージェントには、開発タスク用の組み込みツールが�
 | `invoke_subagent` | エージェント | タスクを並行して委任する |
 | `disclose_context` | コンテキスト | スキルの起動またはステアリング |
 | `introspect` | コンテキスト | 公式ドキュメントに基づき、Kiro自身の機能に関する質問に回答する |
-| `todo_list` | セッション | セッション内のタスクを追跡する |
+| `todo_list` | セッション | セッション内のタスクを追跡する（V3では利用不可） |
 
-### 利用可能なデバイス
+### 対応環境
 
-一部のツールは、まだすべてのデバイスで利用できないものがあります：
+一部のツールは、まだすべてのSurfaceやエージェントエンジンで利用可能ではありません。V3では、`todo_list`は提供されておらず、`chat.enableTodoList`の設定も効果を発揮しません：
 
 | ツール | IDE | CLI | Web | モバイル | ステータス |
 | --- | --- | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ Kiroのエージェントには、開発タスク用の組み込みツールが�
 
 ## ツールへのアクセス設定
 
-利用可能なツールカテゴリを制御するには、[カスタム](https://kiro.dev/docs/custom-agents/)エージェントの「`tools`」フィールドを使用します：
+[カスタム](https://kiro.dev/docs/custom-agents/)エージェントの「`tools`」フィールドを使用して、利用可能なツールカテゴリを制御します：
 
 json
 
@@ -106,19 +106,19 @@ json
 | --- | --- |
 | `read_file` | 単一のファイル（テキストまたは画像）を読み込みます。エイリアス：`fs_read` |
 | `read_files` | 行範囲を指定して複数のファイルを読み込む（オプション） |
-| `list_directory` | ディレクトリの内容を詳細形式で一覧表示 |
+| `list_directory` | ディレクトリの内容を詳細形式で一覧表示する |
 | `file_search` | ファイルパスのあいまい検索（globパターン）。別名：`glob` |
 | `grep_search` | ファイル全体での正規表現によるコンテンツ検索。別名：`grep` |
 | `code` | AST ベースのコード解析 - シグネチャ、シンボル、ファジー検索 |
 
-すべての読み取りツールは、`fs_read` [の権限ルール](https://kiro.dev/docs/permissions/)と機能ルールを適用します。`.kiroignore`のサポートは[環境によって異なります](https://kiro.dev/docs/kiroignore/)。CLI V3では、`file_search`および`grep_search`が、結果から無視されるパスをフィルタリングします。
+すべての読み取りツールは、`fs_read` の[権限](https://kiro.dev/docs/permissions/)ルールと機能ルールを適用します。`.kiroignore` のサポートは[インターフェースによって異なります](https://kiro.dev/docs/kiroignore/)。CLI V3 では、一致する直接読み取りはブロックされますが、`file_search` および `grep_search` では、結果から無視されるパスがフィルタリングされます。
 
 ## ファイルツール（書き込み）
 
 | ツール | 説明 |
 | --- | --- |
-| `fs_write` | ファイルを作成または上書きします。別名：`write` |
-| `fs_append` | 既存のファイルの末尾にコンテンツを追加します |
+| `fs_write` | ファイルを作成または上書きします。エイリアス: `write` |
+| `fs_append` | 既存のファイルの末尾にコンテンツを追加します。 |
 | `str_replace` | ファイル内の特定のテキストを置換する（対象を絞った編集） |
 | `delete_file` | ファイルを削除する |
 
@@ -129,11 +129,11 @@ json
 | ツール | 説明 | サーフェス |
 | --- | --- | --- |
 | `execute_bash` | シェルコマンドを実行します。エイリアス: `shell`、`execute_cmd` | IDE · CLI · Web |
-| `control_bash_process` | 長時間実行されるバックグラウンドプロセスの開始/停止 | IDE · CLI |
-| `get_process_output` | バックグラウンドプロセスからの出力を読み取る | IDE · CLI |
-| `list_processes` | 実行中のバックグラウンドプロセスの一覧表示 | IDE · CLI |
+| `control_bash_process` | 長時間実行されるバックグラウンドプロセスの開始/停止 | IDE |
+| `get_process_output` | バックグラウンドプロセスからの出力を読み取る | IDE |
+| `list_processes` | 実行中のバックグラウンドプロセスの一覧表示 | IDE |
 
-シェルツールは、`shell`の[権限](https://kiro.dev/docs/permissions/)ルールに従います。`match`のパターンを使用して、一般的なコマンドを事前に承認します:
+シェルツールは、`shell`の[権](https://kiro.dev/docs/permissions/)限ルールに従います。`match`パターンを使用して、一般的なコマンドを事前に承認します:
 
 yaml
 
@@ -156,15 +156,15 @@ rules:
 | `web_search` | ウェブ上で最新情報を検索する |
 | `web_fetch` | URLからテキストコンテンツを取得・抽出する |
 
-**制限事項：**1回の取得につき最大10 MB、タイムアウト30秒、テキスト/HTMLのみ、再試行3回。
+**制限事項：**1回の取得あたり最大10 MB、タイムアウトは30秒、テキスト/HTMLのみ。再試行の挙動はインターフェースによって異なります。CLI V3では、一時的な失敗に対して1回再試行を行います。
 
-エンタープライズ管理者は、「**設定」>「共有設定」**から Web ツールを無効にできます。[「エンタープライズガバナンス - Web ツール」](https://kiro.dev/docs/enterprise/governance/web-tools/)を参照してください。
+エンタープライズ管理者は、**[設定] > [共有設定]** から Web ツールを無効にできます。[「エンタープライズガバナンス - Web ツール」](https://kiro.dev/docs/enterprise/governance/web-tools/)を参照してください。
 
 ## コードインテリジェンス
 
 [詳細ガイド →](https://kiro.dev/docs/tools/code-intelligence/)
 
-18言語に対応したTree-sitterベースのコード理解機能 — シンボル検索、ドキュメントシンボル、パターン検索、ASTベースの書き換え。参照の検索、定義への移動、名前変更、診断機能のためのオプションのLSP統合。
+18言語に対応したTree-sitterベースのコード理解機能 — シンボル検索、ドキュメントシンボル、パターン検索、およびASTベースの書き換え。参照の検索、定義への移動、名前変更、診断機能のためのオプションのLSP統合。
 
 **対応言語：**Bash、C、C++、C#、Elixir、Go、Java、JavaScript、Kotlin、Lua、PHP、Python、Ruby、Rust、Scala、Swift、TSX、TypeScript
 
@@ -172,7 +172,7 @@ rules:
 
 | ツール | 説明 |
 | --- | --- |
-| `invoke_subagent` | 隔離されたコンテキストで実行されているエージェントにタスクを委譲する |
+| `invoke_subagent` | 隔離されたコンテキストで実行中のエージェントにタスクを委任する |
 
 詳細なガイドについては、「[サブエージェントとして呼び出す」](https://kiro.dev/docs/custom-agents/subagents/)を参照してください。
 
@@ -203,7 +203,7 @@ CLI で有効にする: `kiro-cli settings toolSearch.enabled true`
 | 設定 | デフォルト | 説明 |
 | --- | --- | --- |
 | `toolSearch.enabled` | `false` | マスターの切り替え |
-| `toolSearch.minPct` | `5` | ツールの仕様がコンテキストのこの％を超えた場合に有効にする |
+| `toolSearch.minPct` | `5` | ツールの仕様がコンテキストのこの％を超えた場合に有効化 |
 | `toolSearch.minTokens` | `50000` | ツールの仕様がこのトークン数を上回ったときに有効にする |
 
 ## セッションツール
@@ -220,8 +220,8 @@ CLI で有効にする: `kiro-cli settings toolSearch.enabled true`
 - [コードインテリジェンス - 詳細ガイド](https://kiro.dev/docs/tools/code-intelligence/)
 - [カスタムエージェント](https://kiro.dev/docs/custom-agents/) - エージェントがアクセスできるツールを設定する
 - [権限](https://kiro.dev/docs/permissions/) - 各ツールの動作を制御する
-- [MCP](https://kiro.dev/docs/mcp/) - 外部ツールによる拡張
-- [構成スコープ](https://kiro.dev/docs/configuration/) - ツールの設定が保存される場所
+- [MCP](https://kiro.dev/docs/mcp/) - 外部ツールによる機能拡張
+- [設定スコープ](https://kiro.dev/docs/configuration/) - ツールの設定が保存される場所
 
 
 ---

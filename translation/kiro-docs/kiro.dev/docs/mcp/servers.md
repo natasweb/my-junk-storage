@@ -1,42 +1,43 @@
 # Server directory
 
 > 元URL: https://kiro.dev/docs/mcp/servers/  
-> 最終取り込み日: 2026-09-05  
+> 最終取り込み日: 2026-10-06  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
 
-外部サービス、データベース、ツールに接続するMCPサーバーを活用して、Kiroの機能を拡張しましょう。以下のディレクトリを参照し、「`Add to Kiro`」をクリックして、ワンクリックでインストールしてください。
+外部サービス、データベース、ツールに接続するMCPサーバーを活用して、Kiroの機能を拡張しましょう。以下のディレクトリから目的のサーバーを探し、「`Add to Kiro`」をクリックすると、ワンクリックでインストールできます。
 
 ## MCPサーバーディレクトリ
 
 | 名称 | インストール | 説明 |
 | --- | --- | --- |
-| **Amazon Devices Builder Tools MCP** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=amazon-devices-buildertools-mcp&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40amazon-devices%2Famazon-devices-buildertools-mcp%40latest%22%5D%2C%22disabled%22%3Afalse%7D) | Builder Tools MCP は、Amazon デバイス向けアプリの開発、テスト、デバッグに必要な情報とツールを提供します。詳細および最新の機能については、[公式ドキュメント](https://developer.amazon.com/docs/vega/latest/mcp-server.html)を参照してください。[Node のインストール](https://nodejs.org/en/download)が必要です。 |
-| **Amplitude** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=amplitude-mcp&config=%7B%22url%22%3A%20%22https%3A//mcp.amplitude.com/mcp%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | AmplitudeのAIを活用した製品データ、実験、ユーザー行動を操作できます。 |
+| **Amazon Devices Builder Tools MCP** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=amazon-devices-buildertools-mcp&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40amazon-devices%2Famazon-devices-buildertools-mcp%40latest%22%5D%2C%22disabled%22%3Afalse%7D) | Builder Tools MCP は、Amazon デバイス向けのアプリを開発、テスト、デバッグするためのコンテキストとツールを提供します。詳細および最新の機能については、[公式ドキュメントを](https://developer.amazon.com/docs/vega/latest/mcp-server.html)参照してください。[Node のインストール](https://nodejs.org/en/download)が必要です。 |
+| **Amplitude** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=amplitude-mcp&config=%7B%22url%22%3A%20%22https%3A//mcp.amplitude.com/mcp%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | AmplitudeのAIを活用した製品データ、実験、およびユーザー行動を操作できます。 |
 | **Apify** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=apify&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.apify.com%2F%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Kiroを、ウェブスクレイピング、データ抽出、自動化のための[数千ものツール](https://apify.com/store)と連携させます。アクターを実行し、結果にアクセスし、Apifyのドキュメントを検索できます。 |
-| **Atlassian** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=atlassian-rovo&config=%7B%22url%22%3A%20%22https%3A//mcp.atlassian.com/v1/mcp/authv2%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | Atlassian Rovo MCP Server を使用して、Jira、Confluence、Compass 間で計画、追跡、コラボレーションを行います。 |
+| **Atlassian** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=atlassian-rovo&config=%7B%22url%22%3A%20%22https%3A//mcp.atlassian.com/v1/mcp/authv2%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | Atlassian Rovo MCP Server を使用して、Jira、Confluence、Compass 間で計画を立て、進捗を追跡し、共同作業を行えます。 |
 | **AWS ドキュメント** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=aws-docs&config=%7B%22command%22%3A%22uvx%22%2C%22args%22%3A%5B%22awslabs.aws-documentation-mcp-server%40latest%22%5D%2C%22env%22%3A%7B%22FASTMCP_LOG_LEVEL%22%3A%22ERROR%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | AWSドキュメントへのアクセス、検索機能、およびコンテンツのおすすめ機能を利用できます。[UVのインストール](https://docs.astral.sh/uv/getting-started/installation/)が必要です |
-| **Azure** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=azure&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-azure%22%5D%2C%22env%22%3A%7B%22AZURE_SUBSCRIPTION_ID%22%3A%22your-subscription-id%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Azureのサービスやリソースを操作できます。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
+| **AWS MCP** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=aws-mcp&config=%7B%22url%22%3A%20%22https%3A%2F%2Faws-mcp.us-east-1.api.aws%2Fmcp%22%2C%22disabled%22%3A%20false%7D) | IAMによって管理されるリモートMCPエンドポイントを通じて、AWSサービスやアカウントリソースを操作します。 |
+| **Azure** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=azure&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-azure%22%5D%2C%22env%22%3A%7B%22AZURE_SUBSCRIPTION_ID%22%3A%22your-subscription-id%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Azureのサービスおよびリソースを操作します。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
 | **BNB Chain** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=bnbchain-mcp&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40bnb-chain%2Fmcp%40latest%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | BNB Chain公式MCP：オンチェーンクエリ、トークン／NFT操作、Greenfieldストレージ、およびBSCおよびopBNB向けのERC-8004エージェントレジストリ。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
 | **Canva** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=canva-dev&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40canva%2Fcli%40latest%22%2C%22mcp%22%5D%7D) | Canvaアプリや連携機能の構築を支援するAI搭載の開発支援ツール。Canvaのドキュメント、App UI Kitコンポーネント、Apps SDKリソースにアクセスできます。 |
-| **Chrome DevTools** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=chrome-devtools&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22chrome-devtools-mcp%40latest%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | DevTools を使用して、実行中の Chrome ブラウザを制御・検査し、自動化、デバッグ、パフォーマンス分析を行います。[Node のインストール](https://nodejs.org/en/download)が必要です |
+| **Chrome DevTools** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=chrome-devtools&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22chrome-devtools-mcp%40latest%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | DevTools を使用して、稼働中の Chrome ブラウザを制御・検査し、自動化、デバッグ、パフォーマンス分析を行います。[Node のインストール](https://nodejs.org/en/download)が必要です |
 | **CMC Agent Hub** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=cmc-skill-hub&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.coinmarketcap.com%2Fskill-hub%2Fstream%22%2C%22headers%22%3A%7B%22X-CMC-MCP-API-KEY%22%3A%22%24%7BCMC_MCP_API_KEY%7D%22%7D%7D) | CoinMarketCapのエージェントスキルハブ：AIエージェント向けの事前計算済みの仮想通貨市場データ、分析、および戦略に即活用できるシグナルを提供します。 |
 | **Context7** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=context7&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40upstash%2Fcontext7-mcp%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | あらゆるライブラリやフレームワークの最新コードドキュメント。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
 | **CrowdStrike** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=crowdstrike-falcon-mcp&config=%7B%22command%22%3A%20%22uvx%22%2C%20%22args%22%3A%20%5B%22falcon-mcp%22%5D%2C%20%22env%22%3A%20%7B%22FALCON_CLIENT_ID%22%3A%20%22%24%7BFALCON_CLIENT_ID%7D%22%2C%20%22FALCON_CLIENT_SECRET%22%3A%20%22%24%7BFALCON_CLIENT_SECRET%7D%22%2C%20%22FALCON_BASE_URL%22%3A%20%22https%3A//api.crowdstrike.com%22%7D%2C%20%22disabled%22%3A%20true%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | AIエージェントをCrowdStrike Falconに接続し、自動化されたセキュリティ分析と脅威ハンティングを実現します。[UVのインストール](https://docs.astral.sh/uv/getting-started/installation/)が必要です |
-| **Databricks** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=databricks-sql&config=%7B%22url%22%3A%22REPLACE_WITH_YOUR_SQL_MCP_URL%22%2C%22headers%22%3A%7B%22Authorization%22%3A%22Bearer%20%24%7BDATABRICKS_ACCESS_TOKEN%7D%22%7D%2C%22disabled%22%3Atrue%7D) | Unity Catalog、Genie、Vector Search、SQL、およびAI支援開発を活用して、Databricks Data Intelligence Platform上でデータの構築、ガバナンス、クエリ実行を行います。[セットアップ](https://docs.databricks.com/aws/en/generative-ai/mcp/connect-clients)が必要です。 |
-| **Datadog** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=datadog&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.datadoghq.com%2Fapi%2Funstable%2Fmcp-server%2Fmcp%3Ftoolsets%3Dcore%2Csynthetics%22%2C%22disabled%22%3Atrue%2C%22autoApprove%22%3A%5B%5D%7D) | DatadogのAIを活用した可観測性およびセキュリティプラットフォームを利用できます。 |
+| **Databricks** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=databricks-sql&config=%7B%22url%22%3A%22REPLACE_WITH_YOUR_SQL_MCP_URL%22%2C%22headers%22%3A%7B%22Authorization%22%3A%22Bearer%20%24%7BDATABRICKS_ACCESS_TOKEN%7D%22%7D%2C%22disabled%22%3Atrue%7D) | Unity Catalog、Genie、Vector Search、SQL、およびAI支援開発を活用して、Databricks Data Intelligence Platform上で構築、ガバナンス、クエリを実行します。[セットアップ](https://docs.databricks.com/aws/en/generative-ai/mcp/connect-clients)が必要です。 |
+| **Datadog** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=datadog&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.datadoghq.com%2Fapi%2Funstable%2Fmcp-server%2Fmcp%3Ftoolsets%3Dcore%2Csynthetics%22%2C%22disabled%22%3Atrue%2C%22autoApprove%22%3A%5B%5D%7D) | DatadogのAI搭載オブザーバビリティおよびセキュリティプラットフォームを活用できます。 |
 | **Docker** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=docker&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-docker%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Dockerコンテナおよびイメージを管理します。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
 | **IBM Watsonx用Docling** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=docling&config=%7B%22command%22%3A%20%22uvx%22%2C%20%22args%22%3A%20%5B%22--from%22%2C%20%22docling-mcp%22%2C%20%22docling-mcp-server%22%2C%20%22--transport%22%2C%20%22stdio%22%5D%2C%20%22env%22%3A%20%7B%22DOCLING_SERVICE_URL%22%3A%20%22https%3A//%3Cyour-docling-saas%3E%22%2C%20%22DOCLING_SERVICE_API_KEY%22%3A%20%22%3Cyour-key%3E%22%2C%20%22DOCLING_CONVERSION_MODE%22%3A%20%22remote%22%7D%7D) | Docling MCP を使用して、PDF やその他のドキュメントを構造化された形式に変換し、新しいドキュメントを生成します。RAG ワークフローのサポートも含まれます。[UV のインストールおよび](https://docs.astral.sh/uv/getting-started/installation/) Docling for IBM watsonx のサブスクリプションが必要です。[公式ドキュメント](https://github.com/docling-project/docling-mcp)。 |
-| **Dynatrace** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=dynatrace-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40dynatrace-oss%2Fdynatrace-mcp-server%40latest%22%5D%2C%22env%22%3A%7B%22DT_ENVIRONMENT%22%3A%22your-dynatrace-url%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Dynatrace Observability Platform と連携します。[Node のインストール](https://nodejs.org/en/download)が必要です |
-| **Elastic** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=elastic-agent-builder&config=%7B%22command%22%3A%20%22npx%22%2C%20%22args%22%3A%20%5B%22mcp-remote%22%2C%20%22%24%7BELASTIC_MCP_URL%7D%22%2C%20%22--header%22%2C%20%22Authorization%3A%20ApiKey%20%24%7BAPI_KEY%7D%22%5D%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | 外部クライアントが Elastic Agent Builder ツールにアクセスし、Elasticsearch、AI、オブザーバビリティ、およびセキュリティプラットフォームを操作するための標準化されたインターフェースを提供します。[Node のインストール](https://nodejs.org/en/download)が必要です。 |
+| **Dynatrace** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=dynatrace-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40dynatrace-oss%2Fdynatrace-mcp-server%40latest%22%5D%2C%22env%22%3A%7B%22DT_ENVIRONMENT%22%3A%22your-dynatrace-url%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Dynatrace オブザーバビリティ・プラットフォームと連携します。[Node のインストール](https://nodejs.org/en/download)が必要です |
+| **Elastic** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=elastic-agent-builder&config=%7B%22command%22%3A%20%22npx%22%2C%20%22args%22%3A%20%5B%22mcp-remote%22%2C%20%22%24%7BELASTIC_MCP_URL%7D%22%2C%20%22--header%22%2C%20%22Authorization%3A%20ApiKey%20%24%7BAPI_KEY%7D%22%5D%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | 外部クライアントが Elastic Agent Builder ツールにアクセスし、Elasticsearch、AI、オブザーバビリティ、およびセキュリティプラットフォームと連携するための標準化されたインターフェースを提供します。[Node のインストール](https://nodejs.org/en/download)が必要です。 |
 | **ファイルシステム** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=filesystem&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-filesystem%22%2C%22%2Fpath%2Fto%2Fallowed%2Fdirectory%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | 許可されたディレクトリ内での安全なファイル操作を実現します。[Nodeのインストール](https://nodejs.org/en/download)が必要です。 |
 | **GCP** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=gcloud&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40google-cloud%2Fgcloud-mcp%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Google Cloud Platformのリソースを管理します。[Nodeのインストール](https://nodejs.org/en/download)が必要です。 |
 | **Git** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=git&config=%7B%22command%22%3A%22uvx%22%2C%22args%22%3A%5B%22mcp-server-git%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Gitリポジトリの閲覧、検索、操作を行います。[UVのインストール](https://docs.astral.sh/uv/getting-started/installation/)が必要です |
 | **GitHub** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=github-mcp-server&config=%7B%22url%22%3A%22https%3A%2F%2Fapi.githubcopilot.com%2Fmcp%2F%22%2C%22headers%22%3A%7B%22Authorization%22%3A%22Bearer%20%24%7BGITHUB_PERSONAL_ACCESS_TOKEN%7D%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | GitHubのリポジトリ、イシュー、プルリクエストを操作できます。 |
 | **GitLab** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=gitlab&config=%7B%22type%22%3A%20%22http%22%2C%20%22url%22%3A%20%22%24%7BGITLAB_MCP_URL%7D%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | GitLab MCPサーバーを使用すると、Kiroからイシュー、マージリクエスト、パイプラインの計画、追跡、管理を行うことができます。 |
 | **Grafana Cloud** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=grafana-cloud&config=%7B%22url%22%3A%20%22https%3A//mcp.grafana.com/mcp%22%2C%20%22disabled%22%3A%20false%2C%20%22autoApprove%22%3A%20%5B%5D%7D) | Grafana Cloud を通じて Open Agentic Observability を活用できます。 |
-| **IBM Watsonx Orchestrate** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=ibm-wxo-docs&config=%7B%22type%22%3A%20%22http%22%2C%20%22url%22%3A%20%22https%3A//developer.watson-orchestrate.ibm.com/mcp%22%7D) | watsonx Orchestrateに関する最新のドキュメントを検索するためのツールを利用できます。 |
+| **IBM Watsonx Orchestrate** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=ibm-wxo-docs&config=%7B%22type%22%3A%20%22http%22%2C%20%22url%22%3A%20%22https%3A//developer.watson-orchestrate.ibm.com/mcp%22%7D) | watsonx Orchestrateに関する最新のドキュメントを検索するためのツールを操作します。 |
 | **Kubernetes** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=kubernetes&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-kubernetes%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | Kubernetes クラスタを操作します。[Node のインストール](https://nodejs.org/en/download)が必要です |
 | **メモリ** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=memory&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-memory%22%5D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | AIエージェント向けのナレッジグラフベースの永続メモリシステム。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
 | **MongoDB** | [+ Kiroに追加](https://kiro.dev/launch/mcp/add/?name=mongodb&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40modelcontextprotocol%2Fserver-mongodb%22%5D%2C%22env%22%3A%7B%22MONGODB_URI%22%3A%22your-mongodb-uri%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D) | MongoDBデータベースとの連携。[Nodeのインストール](https://nodejs.org/en/download)が必要です |
@@ -66,7 +67,7 @@
 https://kiro.dev/launch/mcp/add?name=<server-name>&config=<url-encoded-config>
 ```
 
-**クエリパラメータ:**
+**クエリパラメータ：**
 
 | パラメータ | タイプ | 必須 | 説明 |
 | --- | --- | --- | --- |
@@ -75,7 +76,7 @@ https://kiro.dev/launch/mcp/add?name=<server-name>&config=<url-encoded-config>
 
 ### インストールリンクを生成する
 
-これらのヘルパー関数を使用して、MCPサーバーのインストールリンクをプログラムで作成します。これらのリンクは、GitHub、Webブラウザ、およびドキュメントのいずれでも共通して機能します。
+これらのヘルパー関数を使用して、MCPサーバーのインストールリンクをプログラムで作成します。これらのリンクは、GitHub、Webブラウザ、およびドキュメントのいずれでも動作します。
 
 **JavaScript/TypeScript:**
 
@@ -172,7 +173,7 @@ create_kiro_link "git" "$CONFIG"
 
 ### Kiroバッジを追加する
 
-プロジェクトの README やドキュメントに `Add to Kiro` のバッジを記載することで、ユーザーがワンクリックで MCP サーバーをインストールできるようにします:
+プロジェクトのREADMEやドキュメントに`Add to Kiro`バッジを記載することで、ユーザーがワンクリックでMCPサーバーをインストールできるようにします:
 
 html
 
@@ -192,9 +193,9 @@ markdown
 
 クリックすると、サーバー設定が事前に入力された状態で Kiro を開くようユーザーに促されます。プロンプトが機能しない場合、ページにはサーバー名と再試行ボタンが表示されます。
 
-## その他のMCPサーバーを探す
+## その他の MCP サーバーを探す
 
-上記のディレクトリには厳選されたサーバーが掲載されていますが、MCPエコシステムには他にも数百ものサーバーが存在します。
+上記のディレクトリには厳選されたサーバーが掲載されていますが、MCPエコシステムには他にも数百ものサーバーが利用可能です。
 
 ### 公式リソース
 
