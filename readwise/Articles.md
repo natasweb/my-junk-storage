@@ -116,3 +116,11 @@
   - https://l.smartnews.com/m-8CkENA3e/mJabCR
 - AWSにログインする方法8選
   - https://zenn.dev/aws_japan/articles/aws-login-methods
+- Page Not Found
+  - https://l.smartnews.com/m-8Dd70ZNe/CAhbkw
+- API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた
+  - https://qiita.com/songchong/items/02672765fe53f911a1a0
+- セキュリティニュース
+  - https://rocket-boys.co.jp/security-measures-lab/sbi-securities-google-apple-account-passkey/
+- ひとつのMCPセッションで複数PRを並列レビューする 〜code-review-graphのグラフDBをGit worktreeごとに使い分ける〜
+  - https://developers.cyberagent.co.jp/blog/archives/66628/
