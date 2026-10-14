@@ -124,3 +124,11 @@
   - https://rocket-boys.co.jp/security-measures-lab/sbi-securities-google-apple-account-passkey/
 - ひとつのMCPセッションで複数PRを並列レビューする 〜code-review-graphのグラフDBをGit worktreeごとに使い分ける〜
   - https://developers.cyberagent.co.jp/blog/archives/66628/
+- なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ）
+  - https://www.techno-edge.net/article/2026/10/12/5574.html
+- 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた
+  - https://piyolog.hatenadiary.jp/entry/2026/10/11/004353
+- NICT、企業で相次ぐ不正アクセスの原因の一部は「A2B攻撃」と発表
+  - https://japan.zdnet.com/article/35253510/
+- Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など
+  - https://www.publickey1.jp/blog/26/websveltekit_3vite.html
