@@ -4,16 +4,8 @@
   - https://asm.asahi.com/article/15552350
 - 【年越しそば】250種類以上の干し蕎麦を食べた男が選ぶ「間違いのないメーカー」4選 〜家そば放浪記番外編〜
   - https://rocketnews24.com/2024/12/30/2393583/
-- Vue, Nuxt, React, Next.js の特徴・役割・使いどころを整理する
-  - https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3
-- Next.js初心者向けガイドライン
-  - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
 - Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
   - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
-- 【React】Strategyパターン実践編 〜マルチテナント対応を例に〜
-  - https://zenn.dev/sakisakiika/articles/f41abf4e0160a7
-- Reactデザインパターンに向き合う「なぜそのパターンを選ぶのか？」｜ONE CAREER Tech Blog
-  - https://note.com/dev_onecareer/n/n36c37a2b777d
 - ポテトグラタンより簡単。ドフィノアという、冬のごちそう
   - https://l.smartnews.com/m-7eQq64ms/lAmx1t
 - 【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】
@@ -36,8 +28,6 @@
   - https://hellocraftai.com/blog/github-copilot-review-effort-levels-lite-balanced-ai-credits-guide-2026/
 - 並行開発に Orca がめちゃ便利
   - https://zenn.dev/rhosokawa/articles/d0a958c17c2820
-- 理想のブラウザーへと進化した「Firefox」--再評価の決め手は5つの機能 - (page 2)
-  - https://japan.zdnet.com/article/35251979/2/
 - 多観点で比較する Lambdalith vs 単一目的 Lambda
   - https://dev.classmethod.jp/articles/lambdalith-vs-single-purpose-lambda/
 - Kiro５兄弟のいまどきのセキュリティ基礎知識 ― Kiro CLIとDraw.io MCPで信頼境界を描くまで
@@ -50,14 +40,10 @@
   - https://gigazine.net/news/20260903-google-mantis-open-source/
 - 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
   - https://natalie.mu/comic/news/687841
-- Git の main ブランチを汚さない AI 振り返り台帳管理
-  - https://kawasin73.hatenablog.com/entry/2026/09/02/125317
 - 【カルドセプトビギンズ】最強カードまとめ
   - https://appmedia.jp/culdcept_begins/80212792
 - 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
   - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
-- 「優秀な人のAIの設定・やり取り」をチーム全員で自動共有できる無料ツール「TeamAI」が商用利用可で登場（生成AIクローズアップ）
-  - https://www.techno-edge.net/article/2026/09/16/5503.html
 - Kiro Crew でソフトウェアファクトリーを構築し、1 週間で 1000 件の PR をマージした方法
   - https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/
 - 【カルドセプトビギンズ】最強ブック(デッキ)まとめ
@@ -72,24 +58,10 @@
   - https://l.smartnews.com/m-8A9b573i/fvT2H9
 - 「何もかも便利で良かった」 東京駅30分以内で“家賃相場が安い駅”第1位に「ゆったりした空気感でストレスゼロ」「商業施設が多くて住みやすい」
   - https://l.smartnews.com/m-8AypK2Lm/PmnHja
-- 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に
-  - https://forest.watch.impress.co.jp/docs/news/2144295.html
-- 東武池袋で「北陸・信越展」 富山、石川、福井、新潟、長野から88店
-  - https://ikebukuro.keizai.biz/headline/4002/
-- 個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた
-  - https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2
-- 無印良品　「レンジで焼き料理 グリルプレート」を新発売 | ニュース | 株式会社良品計画
-  - https://www.ryohin-keikaku.jp/news/articles/2026_0930_01
-- 赤羽駅に「全国各地の銘菓」が集結！『ダメ人間スパイス』に『おうちでぼんご』など♪
-  - https://akabane-shinbun.com/archives/266532
 - 猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始
   - https://www.4gamer.net/games/914/G091464/20260930004/
 - AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ
   - https://www.publickey1.jp/blog/26/awsaistrandsllm.html
-- マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る
-  - https://pc.watch.impress.co.jp/docs/topic/special/2141205.html?gad_source=1&gad_campaignid=24301630681&gbraid=0AAAAADl2yPoW5GCXwUIT4LbXUFJf7FSNr&gclid=Cj0KCQjw5vLVBhCiARIsAD56SFLNLxzABF3FzLDXGw1N5t2__7PGINlCo7K9A9awmUxpsiGSFcZc8ogaAoY0EALw_wcB
-- 'WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由'
-  - https://softantenna.com/blog/wsl-containers-ga-summary/
 - OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も
   - https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/
 - 松屋の「ほうれん草とカッテージチーズのカレー」をもっと本気のインド料理にする方法
@@ -116,8 +88,6 @@
   - https://l.smartnews.com/m-8CkENA3e/mJabCR
 - AWSにログインする方法8選
   - https://zenn.dev/aws_japan/articles/aws-login-methods
-- Page Not Found
-  - https://l.smartnews.com/m-8Dd70ZNe/CAhbkw
 - API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた
   - https://qiita.com/songchong/items/02672765fe53f911a1a0
 - セキュリティニュース
@@ -126,9 +96,15 @@
   - https://developers.cyberagent.co.jp/blog/archives/66628/
 - なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ）
   - https://www.techno-edge.net/article/2026/10/12/5574.html
-- 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた
-  - https://piyolog.hatenadiary.jp/entry/2026/10/11/004353
-- NICT、企業で相次ぐ不正アクセスの原因の一部は「A2B攻撃」と発表
-  - https://japan.zdnet.com/article/35253510/
-- Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など
-  - https://www.publickey1.jp/blog/26/websveltekit_3vite.html
+- See what your AI coding agents did, and what it cost.
+  - https://www.agentsview.io/
+- スポンジでは掃除し切れない「キッチンのあの溝」。このブラシを使ったら、住み始めくらいキレイになる
+  - https://www.roomie.jp/2026/10/1909485/
+- 世界中に熱狂的なファンを持つ「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供開始
+  - https://prtimes.jp/main/html/rd/p/000000366.000073456.html
+- 魔女の終活帳 第1章
+  - https://www.manga-up.com/titles/1727
+- ブードゥースラム
+  - https://manga.line.me/product/periodic?id=Z0004190
+- 'AI作図用エージェントスキル 「Archify」 - ゼロから始めるAIシステム開発 #30'
+  - https://qiita.com/shominai2024/items/92f8105f214e1e1b8af6
