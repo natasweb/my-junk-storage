@@ -10,22 +10,14 @@
   - https://l.smartnews.com/m-7eQq64ms/lAmx1t
 - 【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】
   - https://qiita.com/Sicut_study/items/299a221088f5905332a4
-- 【5年で1億貯める】資産がみるみる増えていく「最強スクリーニング法」3つのポイント
-  - https://l.smartnews.com/m-7jg85vpK/PBxFsm
-- これはかなりおすすめ！ Reactを使えるようなりたい人に、入門書の決定版 -挫折しないReactの教科書
-  - https://coliss.com/articles/book-review/isbn-9784815636623.html
 - TypeScript時代におけるGoFデザインパターンの再考と、現代の代替手法10選
   - https://qiita.com/ryuseiyarou/items/822cf3fb3f8c3ffb1e87
-- 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
-  - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
 - アンテナショップ
   - https://www.tourism-alljapanandtokyo.org/category/shop?utm_source=gdn&utm_medium=display&utm_campaign=gdn_campaign2026&utm_term=jpn&utm_content=antenna&gad_source=1&gad_campaignid=24036910252&gbraid=0AAAABEJQazwZooeHv5jxBvc17EP4q98TA&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4aBcMr_lomTr3OtsJwPdG7BznlOb8yCv6jFAXLn8xeqypFJH-Abo8BoCQ0YQAvD_BwE
 - コードレビューの教科書
   - https://gihyo.jp/book/2026/978-4-297-15768-5
 - 日本バインミー協会、「ベストバインミー2026」受賞3店舗を発表
   - https://www.viet-jo.com/news/nikkei/260813175052.html
-- GitHub Copilotのreview effort levelsで何が変わる？8月7日GAのLite/Balanced・自動レビュー既定値・AI
-  - https://hellocraftai.com/blog/github-copilot-review-effort-levels-lite-balanced-ai-credits-guide-2026/
 - 並行開発に Orca がめちゃ便利
   - https://zenn.dev/rhosokawa/articles/d0a958c17c2820
 - 多観点で比較する Lambdalith vs 単一目的 Lambda
@@ -62,40 +54,16 @@
   - https://www.4gamer.net/games/914/G091464/20260930004/
 - AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ
   - https://www.publickey1.jp/blog/26/awsaistrandsllm.html
-- OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も
-  - https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/
 - 松屋の「ほうれん草とカッテージチーズのカレー」をもっと本気のインド料理にする方法
   - https://getnews.jp/archives/3745981
 - 古（いにしえ）のストーブがカセットガスで大進化。やかんも載るよ
   - https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/
-- 火事の心配なく30年持つ「水系電池」がいよいよ量産に入った
-  - https://www.gizmodo.jp/article/water-battery-30-years-enervenue/
 - 愛を求め、叶わず、鬼に変貌したOLの情念を描く「佐江子は思う」
   - https://natalie.mu/comic/news/691736
-- Google App Script/スプレッドシート/Workspace…Googleサービス使いこなし本が安い！
-  - https://forest.watch.impress.co.jp/docs/bookwatch/sale/2143970.html
-- ゲスモブ - 異世界召喚に巻き込まれたけどアイテムボックスに引きこもって日本へ帰る準備中。ギャルが居候してるけど何か質問ある？ -
-  - https://kakuyomu.jp/works/1177354054921026800
-- 軽やかで心地よい打鍵感のメカニカルキーボード"Leggero（レジェロ）"シリーズよりキータイプやサイズから選べる4種の有線キーボードを新発売
-  - https://prtimes.jp/main/html/rd/p/000001551.000026881.html
-- コスモライフ【業界最小クラス※】“小さくてかわいい” 卓上浄水型ウォーターサーバー『cotoris(コトリス)』10月5日発売
-  - https://www.atpress.ne.jp/news/637343
-- 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能
-  - https://l.smartnews.com/m-8BWmxaAo/TeoFJP
-- Claude Code が編集した Markdown のテーブルを Markdown All in One と同じ形に自動で揃える
-  - https://zenn.dev/takuyayukat/articles/625ef992cf68cb
-- localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要
-  - https://l.smartnews.com/m-8CkENA3e/mJabCR
 - AWSにログインする方法8選
   - https://zenn.dev/aws_japan/articles/aws-login-methods
 - API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた
   - https://qiita.com/songchong/items/02672765fe53f911a1a0
-- セキュリティニュース
-  - https://rocket-boys.co.jp/security-measures-lab/sbi-securities-google-apple-account-passkey/
-- ひとつのMCPセッションで複数PRを並列レビューする 〜code-review-graphのグラフDBをGit worktreeごとに使い分ける〜
-  - https://developers.cyberagent.co.jp/blog/archives/66628/
-- なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ）
-  - https://www.techno-edge.net/article/2026/10/12/5574.html
 - See what your AI coding agents did, and what it cost.
   - https://www.agentsview.io/
 - スポンジでは掃除し切れない「キッチンのあの溝」。このブラシを使ったら、住み始めくらいキレイになる
@@ -108,3 +76,31 @@
   - https://manga.line.me/product/periodic?id=Z0004190
 - 'AI作図用エージェントスキル 「Archify」 - ゼロから始めるAIシステム開発 #30'
   - https://qiita.com/shominai2024/items/92f8105f214e1e1b8af6
+- 「Python 3.15.1」などが前倒しで公開、認証局「eMudhra」の侵害に対処
+  - https://forest.watch.impress.co.jp/docs/news/2150177.html
+- 『攻殻機動隊』新作アニメの制作が開始。『攻殻機動隊 THE GHOST IN THE SHELL』に続き、サイエンスSARUがアニメーション制作を担当
+  - https://www.famitsu.com/article/202610/91916
+- セキュリティやアルゴリズム、クラウドに関する基礎知識を得られる書籍が読み放題に
+  - https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2149434.html
+- がんばらない運動という新ジャンル。スマホを見ながら足が自動で歩くウォーキングマシンを試しました
+  - https://www.lifehacker.jp/article/machi-ya-arukiwalk-review2-971237/
+- うつわもそろそろ冬支度 やきもの散歩はいかがですか
+  - https://dai-toukiichi.com/event/2026toneri?gad_source=1&gad_campaignid=24369050049&gbraid=0AAAAA_bLCma74RW3Zmu1VZrlbfptOA1Qm&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-EKxKvGIE9F9mkABD7nAULWCvl_p4A9Dr_AdHkKmSwwQF7w-fYkgGBoCtasQAvD_BwE
+- AIR TWOKYOから『攻殻機動隊 THE GHOST IN THE SHELL』グッズコレクションが10月22日（木）(10:00JST)販売開始！
+  - https://prtimes.jp/main/html/rd/p/000000050.000064883.html
+- TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』のキービジュアルやキャラクター絵を使用したグッズが、Amazonにて先行販売決定！
+  - https://theghostintheshell.jp/products/the-ghost-in-the-shell-amazon-goods
+- 2026年(令和8年分) 年末調整の書き方 ～今年の変更点と申告書の記入例を図解
+  - https://internet.watch.impress.co.jp/docs/special/2150472.html
+- 冤罪で7年間鉱山送りされた俺ダンジョンガチャで復讐します Re
+  - https://kakuyomu.jp/works/11054822663879647251
+- 日本に日本人専用ダンジョンを作りました
+  - https://kakuyomu.jp/works/822139841503500747
+- 【タイトル変更】勇者転生のはずが、勇者じゃない!? と後で知ったから、力を寄こせと迫ってみた
+  - https://kakuyomu.jp/works/16818023213655150554
+- とばっちりで移転した異世界で配達人始めます
+  - https://kakuyomu.jp/works/16818622176574239988
+- 「チームラボ 浜離宮」夜の浜離宮恩賜庭園で、卵形の立体から木々へ光と音が広がる
+  - https://www.fashion-press.net/news/152397
+- 『ファイナルファンタジー レゾナンス』 オリジナルステッカー
+  - https://www.jp.square-enix.com/FFRS/
