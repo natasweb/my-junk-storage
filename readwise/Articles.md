@@ -104,3 +104,15 @@
   - https://www.fashion-press.net/news/152397
 - 『ファイナルファンタジー レゾナンス』 オリジナルステッカー
   - https://www.jp.square-enix.com/FFRS/
+- わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅
+  - https://gigazine.net/news/20261027-bashoudo-warabimochi/
+- ''
+  - https://codezine.jp/news/detail/30129
+- AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止
+  - https://rocket-boys.co.jp/security-measures-lab/ai_coding_agents_agentsmd_downloads_prompt_injection_forever_security_20261026/
+- 「GitHub」に対抗する開発者向けプラットフォーム「Entire」が正式公開
+  - https://l.smartnews.com/m-8LfBIcmc/vMK8Vl
+- Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響【16時40分追記】／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
+  - https://l.smartnews.com/m-8LsgfYfm/eWD6Ic
+- 松屋銀座「イタリア展」本場グルメ＆スイーツが集結、濃厚ピスタチオジェラートも
+  - https://www.fashion-press.net/news/152611
