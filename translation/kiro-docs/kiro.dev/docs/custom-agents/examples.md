@@ -1,7 +1,7 @@
 # Agent examples
 
 > 元URL: https://kiro.dev/docs/custom-agents/examples/  
-> 最終取り込み日: 2026-09-05  
+> 最終取り込み日: 2026-11-01  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
@@ -39,7 +39,7 @@ json
       "action": { "type": "command", "command": "aws sts get-caller-identity" }
     }
   ],
-  "model": "claude-sonnet-4"
+  "model": "claude-sonnet-4.6"
 }
 ```
 
@@ -70,16 +70,11 @@ json
     }
   },
   "tools": ["read", "write", "shell", "@github/issue_read", "@github/search_issues"],
-  "allowedTools": ["read", "@github/issue_read", "@github/search_issues"],
-  "toolAliases": {
-    "@github/issue_read": "issue",
-    "@github/search_issues": "issues"
-  },
   "permissions": {
     "rules": [
       { "capability": "fs_write", "match": ["src/**", "tests/**", "docs/**", "*.md", "*.json"], "effect": "allow" },
       { "capability": "shell", "match": ["git *", "npm *"], "effect": "allow" },
-      { "capability": "mcp", "match": ["@github/issue_read", "@github/search_issues"], "effect": "allow" }
+      { "capability": "mcp", "match": ["github/issue_read", "github/search_issues"], "effect": "allow" }
     ]
   },
   "resources": [
@@ -121,7 +116,6 @@ json
   "description": "Specialized agent for code review and quality analysis",
   "prompt": "You are a code review specialist focused on quality, security, and best practices",
   "tools": ["read", "shell"],
-  "allowedTools": ["read"],
   "permissions": {
     "rules": [
       { "capability": "shell", "match": ["grep *", "find *", "git diff *", "git log *", "eslint *", "pylint *"], "effect": "allow" },
@@ -174,16 +168,11 @@ json
     }
   },
   "tools": ["read", "write", "shell", "@docker", "@database"],
-  "allowedTools": ["read", "@docker/docker_ps", "@docker/docker_logs", "@database/query_read_only"],
-  "toolAliases": {
-    "@docker/docker_ps": "containers",
-    "@docker/docker_logs": "logs",
-    "@database/query_read_only": "query"
-  },
   "permissions": {
     "rules": [
       { "capability": "fs_write", "match": ["src/**", "tests/**", "migrations/**", "docker-compose.yml", "Dockerfile"], "effect": "allow" },
       { "capability": "shell", "match": ["npm test", "npm run build", "docker-compose *"], "effect": "allow" },
+      { "capability": "mcp", "match": ["docker/docker_ps", "docker/docker_logs", "database/query_read_only"], "effect": "allow" },
       { "capability": "shell", "match": ["rm -rf *", "sudo *"], "effect": "deny" }
     ]
   },
@@ -233,7 +222,9 @@ json
     }
   },
   "tools": ["@find-a-domain"],
-  "allowedTools": ["@find-a-domain"]
+  "permissions": {
+    "rules": [{ "capability": "mcp", "match": ["find-a-domain/*"], "effect": "allow" }]
+  }
 }
 ```
 
@@ -241,7 +232,7 @@ json
 
 ### OAuth設定の場合
 
-特定のスコープでのOAuthを必要とするサーバーの場合：
+特定のスコープを必要とするOAuth対応サーバーの場合：
 
 json
 
@@ -257,7 +248,9 @@ json
     }
   },
   "tools": ["@github"],
-  "allowedTools": ["@github"]
+  "permissions": {
+    "rules": [{ "capability": "mcp", "match": ["github/*"], "effect": "allow" }]
+  }
 }
 ```
 
@@ -277,26 +270,28 @@ json
     }
   },
   "tools": ["@github"],
-  "allowedTools": ["@github"]
+  "permissions": {
+    "rules": [{ "capability": "mcp", "match": ["github/*"], "effect": "allow" }]
+  }
 }
 ```
 
 ## 効果的なカスタムエージェントを作成するためのヒント
 
-- **シンプルに始める** - まずは基本的なツールの設定から始め、必要に応じて機能を追加していく
-- **わかりやすい名前をつける** - 目的が明確に伝わるカスタムエージェント名を選択する
+- **まずはシンプルに** — 基本的なツールの設定から始め、必要に応じて機能を追加していく
+- **わかりやすい名前をつける** - 目的が明確にわかるカスタムエージェント名を選ぶ
 - **関連するコンテキストを含める** - リソースにプロジェクトのドキュメントや設定ファイルを追加する
-- **安全なツールを事前に承認する** - 頻繁に使用され、リスクの低いツールを `allowedTools` に含める
+- **安全な操作を事前に承認する** - 頻繁に使用され、リスクの低い操作については、範囲を限定した`permissions.rules`を追加する
 - **動的なコンテキストにはフックを活用する** - コマンドフックを通じて現在のシステム状態を反映させる
-- **ツールの適用範囲を制限する** - `toolsSettings` を使用して、ツールのアクセスを関連するパスやサービスに限定する
+- **ツールの適用範囲を限定する** - `permissions.rules` を使用して、操作を関連するパス、コマンド、および MCP ツールに制限する
 - **徹底的にテストする** - カスタムエージェントの設定が期待通りに動作することを確認する
-- **カスタムエージェントを文書化する** - 明確な説明を用いて、チームメンバーがカスタムエージェントの目的を理解できるようにする
+- **カスタムエージェントを文書化する** - チームメンバーがカスタムエージェントの目的を理解できるよう、明確な説明を記載する
 
 ## 次のステップ
 
 - [カスタムエージェントの作成](https://kiro.dev/docs/custom-agents/creating/)
 - [設定リファレンス](https://kiro.dev/docs/custom-agents/configuration-reference/) - すべてのフィールドに関する詳細情報
-- [古い設定のアップグレード](https://kiro.dev/docs/custom-agents/configuration-reference/#upgrading-from-older-configs) - ``/upgrade-agent`` を使用して v2 設定を移行する
+- [古い設定のアップグレード](https://kiro.dev/docs/custom-agents/configuration-reference/#upgrading-from-older-configs) - v2の設定を移行するには`/upgrade-agent`を使用してください
 - [トラブルシューティング](https://kiro.dev/docs/custom-agents/troubleshooting/) - よくある問題の解決方法
 
 

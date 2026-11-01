@@ -1,7 +1,7 @@
 # Creating custom agents
 
 > 元URL: https://kiro.dev/docs/custom-agents/creating/  
-> 最終取り込み日: 2026-09-05  
+> 最終取り込み日: 2026-11-01  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
@@ -10,12 +10,12 @@
 
 ## クイックスタート
 
-プロジェクト内に直接エージェントファイルを作成します:
+プロジェクト内で直接エージェントファイルを作成します:
 
 1. ワークスペース内に`.kiro/agents/`ディレクトリを作成します（グローバルエージェントの場合は`~/.kiro/agents/`）。
-2. MarkdownまたはJSONファイルを追加します。ファイル名がエージェント名になります
+2. Markdown または JSON ファイルを追加します。ファイル名がエージェント名になります
 
-たとえば、`.kiro/agents/backend-dev.md` を作成します：
+例：`.kiro/agents/backend-dev.md` を作成する場合：
 
 markdown
 
@@ -23,7 +23,7 @@ markdown
 ---
 name: backend-dev
 description: Backend development specialist
-model: claude-sonnet-4
+model: claude-sonnet-4.6
 tools: ["read", "write", "shell"]
 permissions:
   rules:
@@ -40,7 +40,7 @@ Always use async/await. All database queries must be parameterized.
 
 ## エージェント設定ファイル
 
-カスタムエージェントは、JSON設定ファイルを使用して定義されます。基本的な例を以下に示します:
+カスタムエージェントは、JSONまたはMarkdownの設定ファイルを使用して定義されます。以下に基本的なJSONの例を示します：
 
 json
 
@@ -49,14 +49,16 @@ json
   "name": "my-agent",
   "description": "A custom agent for my workflow",
   "tools": ["read", "write"],
-  "allowedTools": ["read"],
+  "permissions": {
+    "rules": [{ "capability": "fs_read", "effect": "allow" }]
+  },
   "resources": [
     "file://README.md",
     "file://.kiro/steering/**/*.md",
     "skill://.kiro/skills/**/SKILL.md"
   ],
   "prompt": "You are a helpful coding assistant",
-  "model": "claude-sonnet-4"
+  "model": "claude-sonnet-4.6"
 }
 ```
 
@@ -114,15 +116,15 @@ Kiroがエージェントを検索する際：
 
 ## カスタムエージェントの使用
 
-チャット入力画面の下部バーにあるエージェント名（例：「Default」）をクリックしてエージェントピッカーを開き、リストからカスタムエージェントを選択します。この変更は現在のセッションに適用され、エージェントのツール、権限、プロンプトは次のメッセージから有効になります。
+チャット入力画面の下部バーにあるエージェント名（例：「Default」）をクリックしてエージェントピッカーを開き、リストからカスタムエージェントを選択します。この切り替えは現在のセッションに適用され、エージェントのツール、権限、プロンプトは次のメッセージから有効になります。
 
-また、新しいセッションを開始する際に、ワークフローのオプションからカスタムエージェントを選択することもできます。
+また、新しいセッションを開始する際に、ワークフローオプションからカスタムエージェントを選択することもできます。
 
 ## 次の手順
 
 - [設定リファレンス](https://kiro.dev/docs/custom-agents/configuration-reference/) - 利用可能なすべての設定オプションを確認する
 - [組み込みエージェント](https://kiro.dev/docs/custom-agents/built-in/) - Kiroの事前設定済みエージェントの構成方法を確認する
-- [事例](https://kiro.dev/docs/custom-agents/examples/) — 実際のエージェント設定例
+- [事例](https://kiro.dev/docs/custom-agents/examples/) - 実際のエージェント設定例
 - [トラブルシューティング](https://kiro.dev/docs/custom-agents/troubleshooting/) - よくある問題の解決方法
 
 

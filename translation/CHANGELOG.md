@@ -2,6 +2,41 @@
 
 翻訳の取り込み結果を実行ごとに記録しています。
 
+## 2026-11-01 16:12:08
+
+新規 0 件 / 更新 28 件 / 削除 0 件 / 変更なし 23 件
+
+### 更新
+
+- [How Kiro works](kiro-docs/kiro.dev/docs/how-kiro-works.md)（変更率 約 4% / 変更箇所 約 3 文）— https://kiro.dev/docs/how-kiro-works/
+- [Specs](kiro-docs/kiro.dev/docs/specs/index.md)（変更率 約 11% / 変更箇所 約 3 文）— https://kiro.dev/docs/specs/
+- [Steering](kiro-docs/kiro.dev/docs/steering.md)（変更率 約 1% / 変更箇所 約 1 文）— https://kiro.dev/docs/steering/
+- [Hooks](kiro-docs/kiro.dev/docs/hooks/index.md)（変更率 約 31% / 変更箇所 約 13 文）— https://kiro.dev/docs/hooks/
+- [Hook types](kiro-docs/kiro.dev/docs/hooks/types.md)（変更率 約 52% / 変更箇所 約 22 文）— https://kiro.dev/docs/hooks/types/
+- [Configuration](kiro-docs/kiro.dev/docs/mcp/configuration.md)（変更率 約 6% / 変更箇所 約 5 文）— https://kiro.dev/docs/mcp/configuration/
+- [Tools](kiro-docs/kiro.dev/docs/mcp/usage.md)（変更率 約 2% / 変更箇所 約 1 文）— https://kiro.dev/docs/mcp/usage/
+- [Tool Search](kiro-docs/kiro.dev/docs/mcp/tool-search.md)（変更率 約 100% / 変更箇所 約 23 文）— https://kiro.dev/docs/mcp/tool-search/
+- [Best practices](kiro-docs/kiro.dev/docs/mcp/security.md)（変更率 約 74% / 変更箇所 約 14 文）— https://kiro.dev/docs/mcp/security/
+- [MCP registry](kiro-docs/kiro.dev/docs/mcp/registry.md)（変更率 約 50% / 変更箇所 約 12 文）— https://kiro.dev/docs/mcp/registry/
+- [Permissions](kiro-docs/kiro.dev/docs/permissions.md)（変更率 約 57% / 変更箇所 約 83 文）— https://kiro.dev/docs/permissions/
+- [Custom agents](kiro-docs/kiro.dev/docs/custom-agents/index.md)（変更率 約 37% / 変更箇所 約 10 文）— https://kiro.dev/docs/custom-agents/
+- [Creating custom agents](kiro-docs/kiro.dev/docs/custom-agents/creating.md)（変更率 約 20% / 変更箇所 約 3 文）— https://kiro.dev/docs/custom-agents/creating/
+- [Agent configuration reference](kiro-docs/kiro.dev/docs/custom-agents/configuration-reference.md)（変更率 約 44% / 変更箇所 約 64 文）— https://kiro.dev/docs/custom-agents/configuration-reference/
+- [Invoking as sub-agents](kiro-docs/kiro.dev/docs/custom-agents/subagents.md)（変更率 約 59% / 変更箇所 約 30 文）— https://kiro.dev/docs/custom-agents/subagents/
+- [Agent examples](kiro-docs/kiro.dev/docs/custom-agents/examples.md)（変更率 約 56% / 変更箇所 約 5 文）— https://kiro.dev/docs/custom-agents/examples/
+- [Powers](kiro-docs/kiro.dev/docs/powers/index.md)（変更率 約 4% / 変更箇所 約 2 文）— https://kiro.dev/docs/powers/
+- [Install powers](kiro-docs/kiro.dev/docs/powers/installation.md)（変更率 約 56% / 変更箇所 約 15 文）— https://kiro.dev/docs/powers/installation/
+- [Create powers](kiro-docs/kiro.dev/docs/powers/create.md)（変更率 約 13% / 変更箇所 約 4 文）— https://kiro.dev/docs/powers/create/
+- [Cloud sessions](kiro-docs/kiro.dev/docs/cloud-sessions.md)（変更率 約 9% / 変更箇所 約 6 文）— https://kiro.dev/docs/cloud-sessions/
+- [Kiroignore](kiro-docs/kiro.dev/docs/kiroignore.md)（変更率 約 11% / 変更箇所 約 2 文）— https://kiro.dev/docs/kiroignore/
+- [Built-in tools](kiro-docs/kiro.dev/docs/tools/index.md)（変更率 約 63% / 変更箇所 約 24 文）— https://kiro.dev/docs/tools/
+- [Web tools](kiro-docs/kiro.dev/docs/tools/web.md)（変更率 約 15% / 変更箇所 約 2 文）— https://kiro.dev/docs/tools/web/
+- [Configuration scopes](kiro-docs/kiro.dev/docs/configuration.md)（変更率 約 8% / 変更箇所 約 3 文）— https://kiro.dev/docs/configuration/
+- [Workflows](kiro-docs/kiro.dev/docs/workflows/index.md)（変更率 約 39% / 変更箇所 約 55 文）— https://kiro.dev/docs/workflows/
+- [Author workflows](kiro-docs/kiro.dev/docs/workflows/authoring.md)（変更率 約 11% / 変更箇所 約 27 文）— https://kiro.dev/docs/workflows/authoring/
+- [Workflow examples](kiro-docs/kiro.dev/docs/workflows/patterns.md)（変更率 約 6% / 変更箇所 約 9 文）— https://kiro.dev/docs/workflows/patterns/
+- [Run and manage workflows](kiro-docs/kiro.dev/docs/workflows/manage.md)（変更率 約 17% / 変更箇所 約 28 文）— https://kiro.dev/docs/workflows/manage/
+
 ## 2026-10-06 00:32:18
 
 新規 4 件 / 更新 21 件 / 削除 0 件 / 変更なし 26 件

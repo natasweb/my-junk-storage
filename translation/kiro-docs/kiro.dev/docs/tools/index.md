@@ -1,7 +1,7 @@
 # Built-in tools
 
 > 元URL: https://kiro.dev/docs/tools/  
-> 最終取り込み日: 2026-10-06  
+> 最終取り込み日: 2026-11-01  
 > このページは自動翻訳（英語→日本語）です。コード部分は翻訳していません。
 
 ---
@@ -13,20 +13,20 @@ Kiroのエージェントには、開発タスク用の組み込みツールが�
 |  |  |
 | --- | --- |
 | **クロスサーフェス** | ファイルの読み書き、シェル、Web検索・取得、サブエージェント、コンテキスト、イントロスペクション |
-| **IDEおよびCLI** | フックの作成 |
-| **IDEとWeb** | 機能 (`kiro_powers`) |
-| **IDEのみ** | バックグラウンドプロセス（開発用サーバー）、エディタのコード解析（`read_code`、セマンティックリネーム） |
-| **CLIのみ** | コードインテリジェンス（`code`）、ゴール、セッション設定、MCP ツール検索（`tool_search`）、ナレッジ（実験的）、シンキング（実験的） |
-| **非推奨** | `aws`、`delegate` — 置き換え予定 |
-| **設定** | [カスタムエージェント](https://kiro.dev/docs/custom-agents/)の使用`tools`フィールド + [権限](https://kiro.dev/docs/permissions/) |
+| **IDEおよびCLI** | フックの作成およびオンデマンドでのMCPツールの読み込み |
+| **IDE限定** | バックグラウンドプロセスの制御と出力、開発サーバーのオーケストレーション、エディタのコード分析（`read_code`、セマンティックリネーム） |
+| **IDEおよびWeb** | Powers（`kiro_powers`） |
+| **CLIのみ** | コードインテリジェンス（`code`）およびナレッジ（実験的機能） |
+| **CLI 2.x レガシー** | `session`、`tool_search` (V2)、`thinking` (実験的)、`use_aws` (推奨エイリアス `aws`)、`delegate`、`task` (エイリアス `todo`、`todo_list`)、`goal`; V3 の組み込み関数ではない |
+| **設定** | [カスタムエージェント](https://kiro.dev/docs/custom-agents/)を使用`tools`フィールド + [権限](https://kiro.dev/docs/permissions/) |
 
 ## ツールカタログ
 
-以下のカタログには、Kiroの各サーフェスに組み込まれているツールが網羅されています。利用可能かどうかは、サーフェスやエージェントエンジンによって異なる場合があります。
+以下のカタログは、Kiro の各サーフェスにまたがる組み込みツールを網羅しています。利用可能性は、サーフェスやエージェントエンジンによって異なる場合があります。
 
 | ツール | カテゴリ | 説明 |
 | --- | --- | --- |
-| `read_file` / `read_files` | ファイル | 1つまたは複数のファイルを読み込む |
+| `read_file` | ファイル | 単一のファイルを読み込む |
 | `list_directory` | ファイル | ディレクトリの内容を表示する |
 | `file_search` | ファイル | ファイルパスのあいまい検索 (glob) |
 | `grep_search` | ファイル | 正規表現によるコンテンツ検索 |
@@ -35,38 +35,38 @@ Kiroのエージェントには、開発タスク用の組み込みツールが�
 | `str_replace` | ファイル | 指定したテキストの置換 |
 | `delete_file` | ファイル | ファイルを削除 |
 | `execute_bash` | シェル | シェルコマンドの実行 |
-| `web_search` | Web | Web検索 |
+| `remote_web_search` | Web | Webを検索（`web_search`として表示されます） |
 | `web_fetch` | Web | URLからコンテンツを取得する |
-| `invoke_subagent` | エージェント | タスクを並行して委任する |
+| `invoke_sub_agent` | エージェント | タスクを並行して委任する |
 | `disclose_context` | コンテキスト | スキルの起動またはステアリング |
 | `introspect` | コンテキスト | 公式ドキュメントに基づき、Kiro自身の機能に関する質問に回答する |
-| `todo_list` | セッション | セッション内のタスクを追跡する（V3では利用不可） |
 
-### 対応環境
+### 利用可能なプラットフォーム
 
-一部のツールは、まだすべてのSurfaceやエージェントエンジンで利用可能ではありません。V3では、`todo_list`は提供されておらず、`chat.enableTodoList`の設定も効果を発揮しません：
+一部のツールは、まだすべてのプラットフォームやエージェントエンジンで利用可能ではありません。CLI V3にはタスクリストツールがないため、`chat.enableTodoList`の設定はそこで効果を発揮しません：
 
 | ツール | IDE | CLI | Web | モバイル | ステータス |
 | --- | --- | --- | --- | --- | --- |
-| `control_bash_process` | ✓ | — | — | — | GA |
+| `control_bash_process` / `control_pwsh_process` | ✓ | — | — | — | GA |
 | `get_process_output` | ✓ | — | — | — | GA |
 | `list_processes` | ✓ | — | — | — | GA |
 | `kiro_powers` | ✓ | — | ✓ | — | GA |
-| `create_hook` | ✓ | ✓ | — | — | GA |
+| `createHook` | ✓ | ✓ | — | — | GA |
 | `code` | — | ✓ | — | — | GA |
-| `goal` | — | ✓ | — | — | GA |
-| `session_settings` | — | ✓ | — | — | GA |
-| `tool_search` | — | ✓ | — | — | GA |
+| `session` | — | 2.x | — | — | CLI 2.x のみ |
+| `tool_search` | — | V2 | — | — | CLI V2のみ |
 | `knowledge` | — | ✓ | — | — | 実験的 |
-| `thinking` | — | ✓ | — | — | 実験的 |
-| `aws` | — | ✓ | — | — | 非推奨 |
-| `delegate` | — | ✓ | — | — | 非推奨 → サブエージェントを使用してください |
+| `thinking` | — | 2.x | — | — | CLI 2.x のみ |
+| `use_aws` / `aws` | — | 2.x | — | — | CLI 2.x のみ → MCP サーバーを使用 |
+| `delegate` | — | 2.x | — | — | CLI 2.x のみ → サブエージェントを使用 |
+| `task`（エイリアス：`todo`、`todo_list`） | — | 2.x | — | — | CLI 2.x のみ |
+| `goal` | — | 2.x | — | — | CLI 2.x のみ。設定した `/goal` の完了が確認されたことを報告します |
 
-バックグラウンドプロセスツール（`control_bash_process`、`get_process_output`、`list_processes`）は、IDE の[開発サーバー](https://kiro.dev/docs/ide/chat/dev-servers/)ワークフローを支えています。 `code`ツール（tree-sitterおよびLSPベースの[コードインテリジェンス](https://kiro.dev/docs/tools/code-intelligence/)）は、IDE以外のクライアント向けに提供されています。IDE内では、同等の機能がエディタネイティブツールとして組み込まれています。AST解析およびセマンティックリネームを行う`read_code`は、エディタがすでに実行している言語サーバーを利用しています。
+バックグラウンドプロセスツール（`control_bash_process`、`control_pwsh_process`、`get_process_output`、`list_processes`）は IDE で利用可能であり、[開発サーバー](https://kiro.dev/docs/ide/chat/dev-servers/)をサポートしています。CLI V3 では、`run_in_background` を使用して `execute_bash`（Windows では `execute_pwsh`）を通じてバックグラウンドでコマンドを開始できますが、これらのプロセス制御ツールは登録されません。 `code`ツール（tree-sitterおよびLSPベースの[コードインテリジェンス](https://kiro.dev/docs/tools/code-intelligence/)）は、IDE以外のクライアント向けに提供されています。IDE内では、同等の機能がエディタネイティブツールとして組み込まれており、AST解析やセマンティックリネームを行う`read_code`は、エディタが既に実行している言語サーバーを利用しています。
 
 ## ツールへのアクセス設定
 
-[カスタム](https://kiro.dev/docs/custom-agents/)エージェントの「`tools`」フィールドを使用して、利用可能なツールカテゴリを制御します：
+[カスタム](https://kiro.dev/docs/custom-agents/)エージェントの`tools`フィールドを使用して、利用可能なカテゴリタグや直接ツールセレクタを制御します：
 
 json
 
@@ -76,17 +76,17 @@ json
 }
 ```
 
-各カテゴリは一連のツールに対応しています：
+一般的なカテゴリのマッピングには、次のようなものがあります：
 
-| カテゴリ | 含まれるもの |
+| カテゴリ | 通常、以下が含まれます |
 | --- | --- |
-| `read` | read_file、read_files、list_directory、file_search、grep_search、code |
-| `write` | fs_write、fs_append、str_replace、delete_file |
-| `shell` | execute_bash、control_bash_process、get_process_output、list_processes |
-| `web` | web_fetch、web_search |
-| `subagent` | invoke_subagent |
-| `spec` | Spec ワークフローツール |
-| `context` | disclose_context、introspect、knowledge |
+| `read` | read_file、list_directory、file_search、grep_search、code、`tool_search`（V2）、introspect |
+| `write` | fs_write、fs_append、str_replace、delete_file、code |
+| `shell` | execute_bash または execute_pwsh。IDE クライアントは、control_bash_process または control_pwsh_process、get_process_output、list_processes も公開している場合があります。 |
+| `web` | web_fetch、remote_web_search |
+| `subagent` | エージェントごとのディスパッチツール（`subagent/<agent>` として表示されます） |
+
+`knowledge` や `invoke_sub_agent` など、一部の組み込み機能にはカテゴリタグがありません。これらを選択するには、ツール ID を使用するか、`@builtin` または `*` を使用してください。`invoke_sub_agent` は任意のエージェントを起動できるため、`tools` に `@builtin` または `*` を含むエージェントは、任意のサブエージェントを起動できます。
 
 特別な値：
 
@@ -94,9 +94,9 @@ json
 | --- | --- |
 | `@builtin` | すべての組み込みツール |
 | `@mcp` | すべてのMCPサーバーツール |
-| `*` | すべて（組み込み＋MCP） |
+| `*` | すべて（組み込みツール＋MCP） |
 
-特定のカテゴリを除外：`"excludedTools": ["web"]`
+特定のカテゴリを除外する：`"excludedTools": ["web"]`
 
 [権限設定](https://kiro.dev/docs/permissions/)により、ツールの機能（単に表示されるかどうかだけでなく）を制御します。
 
@@ -104,20 +104,19 @@ json
 
 | ツール | 説明 |
 | --- | --- |
-| `read_file` | 単一のファイル（テキストまたは画像）を読み込みます。エイリアス：`fs_read` |
-| `read_files` | 行範囲を指定して複数のファイルを読み込む（オプション） |
-| `list_directory` | ディレクトリの内容を詳細形式で一覧表示する |
-| `file_search` | ファイルパスのあいまい検索（globパターン）。別名：`glob` |
-| `grep_search` | ファイル全体での正規表現によるコンテンツ検索。別名：`grep` |
-| `code` | AST ベースのコード解析 - シグネチャ、シンボル、ファジー検索 |
+| `read_file` | 単一のファイル（テキストまたは画像）を読み取ります。複数のファイルを読み取るには、ファイルごとに 1 回ずつ呼び出してください。移行中、CLI 2.x のエイリアス `fs_read` は `read` タグにマッピングされます。これはフックやランタイム ID ではありません。 |
+| `list_directory` | ディレクトリの内容を詳細形式で一覧表示 |
+| `file_search` | ファイルパスのあいまい検索（globパターン）。CLI 2.xでの名称：`glob` |
+| `grep_search` | ファイル全体での正規表現によるコンテンツ検索。CLI 2.x での名称：`grep` |
+| `code` | AST ベースのコード分析 - シグネチャ、シンボル、ファジー検索 |
 
-すべての読み取りツールは、`fs_read` の[権限](https://kiro.dev/docs/permissions/)ルールと機能ルールを適用します。`.kiroignore` のサポートは[インターフェースによって異なります](https://kiro.dev/docs/kiroignore/)。CLI V3 では、一致する直接読み取りはブロックされますが、`file_search` および `grep_search` では、結果から無視されるパスがフィルタリングされます。
+すべての読み取りツールは、`fs_read` [権](https://kiro.dev/docs/permissions/)限ルールが適用されます。`.kiroignore` のサポートは[表面によって異なります](https://kiro.dev/docs/kiroignore/)。CLI V3 では、一致する直接読み取りはブロックされますが、`file_search` および `grep_search` は、結果から無視されるパスをフィルタリングします。
 
 ## ファイルツール（書き込み）
 
 | ツール | 説明 |
 | --- | --- |
-| `fs_write` | ファイルを作成または上書きします。エイリアス: `write` |
+| `fs_write` | ファイルを作成または上書きします。CLI 2.x の名前：`write` |
 | `fs_append` | 既存のファイルの末尾にコンテンツを追加します。 |
 | `str_replace` | ファイル内の特定のテキストを置換する（対象を絞った編集） |
 | `delete_file` | ファイルを削除する |
@@ -128,12 +127,12 @@ json
 
 | ツール | 説明 | サーフェス |
 | --- | --- | --- |
-| `execute_bash` | シェルコマンドを実行します。エイリアス: `shell`、`execute_cmd` | IDE · CLI · Web |
-| `control_bash_process` | 長時間実行されるバックグラウンドプロセスの開始/停止 | IDE |
+| `execute_bash` | シェルコマンドを実行します。CLI 2.x の名前：`shell`、`execute_cmd` | IDE · CLI · Web |
+| `control_bash_process` / `control_pwsh_process` | 長時間実行されるバックグラウンドプロセスの開始/停止 | IDE |
 | `get_process_output` | バックグラウンドプロセスからの出力を読み取る | IDE |
 | `list_processes` | 実行中のバックグラウンドプロセスの一覧表示 | IDE |
 
-シェルツールは、`shell`の[権](https://kiro.dev/docs/permissions/)限ルールに従います。`match`パターンを使用して、一般的なコマンドを事前に承認します:
+シェルツールは、`shell`[の権限ルール](https://kiro.dev/docs/permissions/)に従います。`match`パターンを使用して、一般的なコマンドを事前に承認します:
 
 yaml
 
@@ -153,8 +152,8 @@ rules:
 
 | ツール | 説明 |
 | --- | --- |
-| `web_search` | ウェブ上で最新情報を検索する |
-| `web_fetch` | URLからテキストコンテンツを取得・抽出する |
+| `remote_web_search` | ウェブ上で最新情報を検索します。`web_search`として表示されます |
+| `web_fetch` | URLからテキストコンテンツを取得・抽出します |
 
 **制限事項：**1回の取得あたり最大10 MB、タイムアウトは30秒、テキスト/HTMLのみ。再試行の挙動はインターフェースによって異なります。CLI V3では、一時的な失敗に対して1回再試行を行います。
 
@@ -172,7 +171,7 @@ rules:
 
 | ツール | 説明 |
 | --- | --- |
-| `invoke_subagent` | 隔離されたコンテキストで実行中のエージェントにタスクを委任する |
+| `invoke_sub_agent` | 隔離されたコンテキストで実行中のエージェントにタスクを委任する |
 
 詳細なガイドについては、「[サブエージェントとして呼び出す」](https://kiro.dev/docs/custom-agents/subagents/)を参照してください。
 
@@ -180,38 +179,23 @@ rules:
 
 | ツール | 説明 |
 | --- | --- |
-| `disclose_context` | スキルやステアリングファイルをコンテキスト内で有効化する |
+| `disclose_context` | スキルやステアリングファイルをコンテキスト内で有効にする |
 | `introspect` | インデックス化されたKiroドキュメントを検索（セマンティック検索＋BM25） |
 | `knowledge` | インデックス化されたナレッジベースを検索（実験的） |
 
-## ツール検索（CLI）
+## ツール検索
 
 [詳細ガイド →](https://kiro.dev/docs/mcp/tool-search/)
 
-すべてのリクエストにすべてのツール定義を含めるのではなく、オンデマンドでMCPツールを読み込みます。多数のMCPサーバー環境でもコンテキストを効率的に維持します。CLIで利用可能です。
+Kiro IDE 1.3 以降では、MCP ツールがオンデマンドで読み込まれます。Kiro CLI 2.31 以降のローカル V3 セッションでも同様です。Kiro はコンパクトなツール一覧を受け取り、必要な定義を読み込んだ後、通常の権限チェックおよびフックチェックを経て、それらのツールを呼び出します。
 
-**仕組み：**インデックス → 遅延コンパクトリスト → オンデマンドの`tool_search`呼び出し → 一致したツールの起動。
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| `tool_id` | 文字列 | `server_name::tool_name`の正確な識別子 |
-| `query` | 文字列 | BM25検索のキーワード |
-| `max_results` | 整数 | 最大結果数（デフォルト：5） |
-
-CLI で有効にする: `kiro-cli settings toolSearch.enabled true`
-
-| 設定 | デフォルト | 説明 |
-| --- | --- | --- |
-| `toolSearch.enabled` | `false` | マスターの切り替え |
-| `toolSearch.minPct` | `5` | ツールの仕様がコンテキストのこの％を超えた場合に有効化 |
-| `toolSearch.minTokens` | `50000` | ツールの仕様がこのトークン数を上回ったときに有効にする |
+V3アクティビティでは、`tool_call`の前に`tool_load`が表示される場合があります。V2セッションでは、レガシーな`tool_search`パスを有効にできます。[ツール検索ガイド](https://kiro.dev/docs/mcp/tool-search/#enable-tool-search-in-v2-sessions)を参照してください。
 
 ## セッションツール
 
 | ツール | 説明 | ステータス |
 | --- | --- | --- |
-| `todo_list` | セッション内のタスクを追跡する（作成、完了、一覧表示） | GA |
-| `create_hook` | チャットからエージェントフックを作成する | GA |
+| `createHook` | チャットからエージェントフックを作成する | GA |
 | `kiro_powers` | インストール済みのパワーの一覧表示、有効化、および使用 | GA |
 
 ## 次の手順
