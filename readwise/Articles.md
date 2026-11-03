@@ -106,13 +106,21 @@
   - https://www.jp.square-enix.com/FFRS/
 - わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅
   - https://gigazine.net/news/20261027-bashoudo-warabimochi/
-- ''
-  - https://codezine.jp/news/detail/30129
 - AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止
   - https://rocket-boys.co.jp/security-measures-lab/ai_coding_agents_agentsmd_downloads_prompt_injection_forever_security_20261026/
 - 「GitHub」に対抗する開発者向けプラットフォーム「Entire」が正式公開
   - https://l.smartnews.com/m-8LfBIcmc/vMK8Vl
 - Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響【16時40分追記】／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
   - https://l.smartnews.com/m-8LsgfYfm/eWD6Ic
-- 松屋銀座「イタリア展」本場グルメ＆スイーツが集結、濃厚ピスタチオジェラートも
-  - https://www.fashion-press.net/news/152611
+- コードを読まずにマージするために必要なこと
+  - https://zenn.dev/nrs/articles/c777388530aa84
+- バカゲーやネタゲーの領域を通り越して，予想をはるかに超える悪ふざけに震える。「昭和米国物語」は，ぶっ飛びすぎて笑いが止まらない［プレイレポ］
+  - https://l.smartnews.com/m-8LZh2tjO/rH03i1
+- オブジェクトストレージサーバーいろいろ
+  - https://gihyo.jp/admin/serial/01/ubuntu-recipe/0932
+- イメージのビルド待ちなしに AWS Lambda MicroVMs を最新のコードで動かしてみた
+  - https://aws.amazon.com/jp/builders-flash/202610/activate-lambda-microvm-latest-codes/?sc_channel=sm&sc_campaign=WEB_Magagine&sc_publisher=TWITTER&sc_country=japan&sc_geo=JAPAN&sc_outcome=awareness&trkCampaign=builders_flash&trk=1d820e5b-48fe-401b-8168-81b71932ad0b&linkId=1017658463
+- 旅行の荷づくりがラクになった。DODの「3分割バッグ」は整理が苦手な私の味方
+  - https://www.lifehacker.jp/article/2610-dod-mittsu-wakebukuro/
+- 全人類に行ってほしい「比較的行きやすい秘境温泉」が最高なんだよ / 北温泉旅館
+  - https://getnews.jp/archives/3752429
