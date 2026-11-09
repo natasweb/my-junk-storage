@@ -124,3 +124,29 @@
   - https://www.lifehacker.jp/article/2610-dod-mittsu-wakebukuro/
 - 全人類に行ってほしい「比較的行きやすい秘境温泉」が最高なんだよ / 北温泉旅館
   - https://getnews.jp/archives/3752429
+- ネコ派に朗報、「Visual Studio Code」でペットを飼える拡張機能で毛色が大幅拡充
+  - https://forest.watch.impress.co.jp/docs/news/2153760.html
+- 「Unreal MCPを入れて終わり」にしない！LLMが使えるプロジェクト専用ツールの作り方【Unreal Fest Tokyo 2026】
+  - https://gamemakers.jp/article/2026_11_04_149329/
+- ダンジョンRPG「デモンキルデモン 〜黄泉1984〜」，PC（Steam），PS5，PS4版を2027年2月25日に発売
+  - https://www.4gamer.net/games/056/G105626/20261106038/
+- XENEON EDGE
+  - https://www.corsair.com/jp/ja/s/xeneon-edge-lcd-touchscreen?utm_source=google&utm_medium=cpc&utm_campaign=Xeneon_Edge_JP&utm_id=23920804789&gad_source=1&gad_campaignid=23916372683&gbraid=0AAAAADPCiRdMTBzpEfsE5EFh1UzX0NLOD&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3s3W8Jbd_bfk1xSl6E1gny7QMQjh3sQFt23xB4R-yt6k8x79RoVAGxoCgN8QAvD_BwE
+- OpenSSHのパスワード認証回避の脆弱性 CVE-2026-123158 についてまとめてみた
+  - https://l.smartnews.com/m-8PfMBmy4/w26Hau
+- 古いAndroidスマホを音楽専用機にする「reTONE」、Google Playストアで公開
+  - https://av.watch.impress.co.jp/docs/news/2153957.html
+- アヴァロン・プロトコル 王たる少年、レベル差無視の『大物喰い』スキルで最強ボスに下剋上
+  - https://kakuyomu.jp/publication/entry/9784040766164
+- 仏ミストラルの「Le Chonk」、コーディング分野で最高クラスのオープンモデルに
+  - https://japan.zdnet.com/article/35254228/
+- EC2 インスタンスタイプの選び方：M シリーズを基準に要件から考える
+  - https://zenn.dev/fusic/articles/34bcae8bc3edbc
+- GitHubが単一リポジトリの同時push向けに再設計したGit格納
+  - https://zenn.dev/suwash/articles/github-push-git-github-inside-p1_20261106
+- ハーネスも実行先も選べる。Kiro Crew 0.6.0 はエージェントのコントロールプレーンへ
+  - https://zenn.dev/aws_japan/articles/kiro-crew-0-6-control-plane
+- シン・ウルトラモード
+  - https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode
+- Kiro の初期セットアップ後によく聞かれる設定をまとめる【IT 管理者編】
+  - https://zenn.dev/aws_japan/articles/kiro-setup-for-it-admins
