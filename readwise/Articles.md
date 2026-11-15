@@ -26,20 +26,14 @@
   - https://qiita.com/kamogashira/items/519a52614ba113bfe9cb
 - GitHub Actionsで「無料のLinuxデスクトップ」が立ち上がる
   - https://l.smartnews.com/m-8pckwcGk/C3qIYt
-- Codex App Serverとは？｜codex mcp-server非推奨化で何が変わるのか
-  - https://l.smartnews.com/m-8p9uBIIw/zU5X4H
 - Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減
   - https://gigazine.net/news/20260903-google-mantis-open-source/
 - 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
   - https://natalie.mu/comic/news/687841
-- 【カルドセプトビギンズ】最強カードまとめ
-  - https://appmedia.jp/culdcept_begins/80212792
 - 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
   - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
 - Kiro Crew でソフトウェアファクトリーを構築し、1 週間で 1000 件の PR をマージした方法
   - https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/
-- 【カルドセプトビギンズ】最強ブック(デッキ)まとめ
-  - https://appmedia.jp/culdcept_begins/80218486
 - 【人気記事はこちらをチェック！】
   - https://www.buzzfeed.com/jp/mayumioowada/fried-nagaimo-aonori
 - 「日本アニメ映画史に残る大傑作」「一度観たらしばらく観られなくなるくらいの衝撃」――弱冠29歳の監督が描く『我々は宇宙人』が「小学生時代の記憶の扉」をこじ開ける【レビュー】
@@ -58,38 +52,22 @@
   - https://getnews.jp/archives/3745981
 - 古（いにしえ）のストーブがカセットガスで大進化。やかんも載るよ
   - https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/
-- 愛を求め、叶わず、鬼に変貌したOLの情念を描く「佐江子は思う」
-  - https://natalie.mu/comic/news/691736
 - AWSにログインする方法8選
   - https://zenn.dev/aws_japan/articles/aws-login-methods
-- API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた
-  - https://qiita.com/songchong/items/02672765fe53f911a1a0
 - See what your AI coding agents did, and what it cost.
   - https://www.agentsview.io/
-- スポンジでは掃除し切れない「キッチンのあの溝」。このブラシを使ったら、住み始めくらいキレイになる
-  - https://www.roomie.jp/2026/10/1909485/
 - 世界中に熱狂的なファンを持つ「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供開始
   - https://prtimes.jp/main/html/rd/p/000000366.000073456.html
 - 魔女の終活帳 第1章
   - https://www.manga-up.com/titles/1727
 - ブードゥースラム
   - https://manga.line.me/product/periodic?id=Z0004190
-- 'AI作図用エージェントスキル 「Archify」 - ゼロから始めるAIシステム開発 #30'
-  - https://qiita.com/shominai2024/items/92f8105f214e1e1b8af6
-- 「Python 3.15.1」などが前倒しで公開、認証局「eMudhra」の侵害に対処
-  - https://forest.watch.impress.co.jp/docs/news/2150177.html
 - 『攻殻機動隊』新作アニメの制作が開始。『攻殻機動隊 THE GHOST IN THE SHELL』に続き、サイエンスSARUがアニメーション制作を担当
   - https://www.famitsu.com/article/202610/91916
-- セキュリティやアルゴリズム、クラウドに関する基礎知識を得られる書籍が読み放題に
-  - https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2149434.html
 - がんばらない運動という新ジャンル。スマホを見ながら足が自動で歩くウォーキングマシンを試しました
   - https://www.lifehacker.jp/article/machi-ya-arukiwalk-review2-971237/
-- うつわもそろそろ冬支度 やきもの散歩はいかがですか
-  - https://dai-toukiichi.com/event/2026toneri?gad_source=1&gad_campaignid=24369050049&gbraid=0AAAAA_bLCma74RW3Zmu1VZrlbfptOA1Qm&gclid=CjwKCAjwi-zWBhAdEiwAqlRf-EKxKvGIE9F9mkABD7nAULWCvl_p4A9Dr_AdHkKmSwwQF7w-fYkgGBoCtasQAvD_BwE
 - AIR TWOKYOから『攻殻機動隊 THE GHOST IN THE SHELL』グッズコレクションが10月22日（木）(10:00JST)販売開始！
   - https://prtimes.jp/main/html/rd/p/000000050.000064883.html
-- TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』のキービジュアルやキャラクター絵を使用したグッズが、Amazonにて先行販売決定！
-  - https://theghostintheshell.jp/products/the-ghost-in-the-shell-amazon-goods
 - 2026年(令和8年分) 年末調整の書き方 ～今年の変更点と申告書の記入例を図解
   - https://internet.watch.impress.co.jp/docs/special/2150472.html
 - 冤罪で7年間鉱山送りされた俺ダンジョンガチャで復讐します Re
@@ -100,32 +78,20 @@
   - https://kakuyomu.jp/works/16818023213655150554
 - とばっちりで移転した異世界で配達人始めます
   - https://kakuyomu.jp/works/16818622176574239988
-- 「チームラボ 浜離宮」夜の浜離宮恩賜庭園で、卵形の立体から木々へ光と音が広がる
-  - https://www.fashion-press.net/news/152397
-- 『ファイナルファンタジー レゾナンス』 オリジナルステッカー
-  - https://www.jp.square-enix.com/FFRS/
 - わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅
   - https://gigazine.net/news/20261027-bashoudo-warabimochi/
 - AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止
   - https://rocket-boys.co.jp/security-measures-lab/ai_coding_agents_agentsmd_downloads_prompt_injection_forever_security_20261026/
-- 「GitHub」に対抗する開発者向けプラットフォーム「Entire」が正式公開
-  - https://l.smartnews.com/m-8LfBIcmc/vMK8Vl
-- Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響【16時40分追記】／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
-  - https://l.smartnews.com/m-8LsgfYfm/eWD6Ic
 - コードを読まずにマージするために必要なこと
   - https://zenn.dev/nrs/articles/c777388530aa84
 - バカゲーやネタゲーの領域を通り越して，予想をはるかに超える悪ふざけに震える。「昭和米国物語」は，ぶっ飛びすぎて笑いが止まらない［プレイレポ］
   - https://l.smartnews.com/m-8LZh2tjO/rH03i1
-- オブジェクトストレージサーバーいろいろ
-  - https://gihyo.jp/admin/serial/01/ubuntu-recipe/0932
 - 旅行の荷づくりがラクになった。DODの「3分割バッグ」は整理が苦手な私の味方
   - https://www.lifehacker.jp/article/2610-dod-mittsu-wakebukuro/
 - 全人類に行ってほしい「比較的行きやすい秘境温泉」が最高なんだよ / 北温泉旅館
   - https://getnews.jp/archives/3752429
 - ダンジョンRPG「デモンキルデモン 〜黄泉1984〜」，PC（Steam），PS5，PS4版を2027年2月25日に発売
   - https://www.4gamer.net/games/056/G105626/20261106038/
-- XENEON EDGE
-  - https://www.corsair.com/jp/ja/s/xeneon-edge-lcd-touchscreen?utm_source=google&utm_medium=cpc&utm_campaign=Xeneon_Edge_JP&utm_id=23920804789&gad_source=1&gad_campaignid=23916372683&gbraid=0AAAAADPCiRdMTBzpEfsE5EFh1UzX0NLOD&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3s3W8Jbd_bfk1xSl6E1gny7QMQjh3sQFt23xB4R-yt6k8x79RoVAGxoCgN8QAvD_BwE
 - アヴァロン・プロトコル 王たる少年、レベル差無視の『大物喰い』スキルで最強ボスに下剋上
   - https://kakuyomu.jp/publication/entry/9784040766164
 - ハーネスも実行先も選べる。Kiro Crew 0.6.0 はエージェントのコントロールプレーンへ
@@ -134,13 +100,23 @@
   - https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode
 - Kiro の初期セットアップ後によく聞かれる設定をまとめる【IT 管理者編】
   - https://zenn.dev/aws_japan/articles/kiro-setup-for-it-admins
-- Git for Windows v2.56.1公開、再帰クローン経由の任意コード実行など6件の脆弱性を修正
-  - https://finance.biggo.jp/news/502ac07c-4968-41f3-941a-d935d0c950c8
 - ウォッシュ加工　ハーフボタンスリット入りデニムパーカー
   - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-lsx-jk251278
 - 裾ヒモ付き 米軍 40’s デニムデッキパーカー
   - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-gsh-hvcswy0708
-- ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定
-  - https://l.smartnews.com/m-8RlYIw80/aaZGTZ
 - ロイヤルホスト、冬限定パフェ3種を発売 チェリーショコラやキャラメル、金柑を使用
   - https://www.ssnp.co.jp/foodservice/710973/
+- AIエージェントからの「確認疲れ」を減らす仕組み、別のAIが承認か差し戻しかを決定 AWS Quickが導入
+  - https://www.techno-edge.net/article/2026/11/13/5717.html
+- 完全オフライン・無制限の「日本発翻訳AI」無償公開でゲーマー向けツールも登場/総勢50人登場の『キン肉マン令和復活編』買い切りで配信/操作性にこだわった1,000回遊べるターン制ローグライクRPG『勇者ローグ』が発売【週刊スパラン11/6～】
+  - https://www.gamespark.jp/article/2026/11/15/174886.html
+- '『ファンタシースター』『ゼノギアス』に影響受けた『Lie of Caelum: Spirit』デモ版が期間限定配信中。PSX時代のJRPGを強く感じる情熱のJRPG【今週のインディー3選】'
+  - https://www.gamespark.jp/article/2026/11/15/174892.html
+- Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順
+  - https://zenn.dev/happy_elements/articles/201519107f93de
+- 「歴20年ほどになりますが、とても良い街」 “本当に住みやすいと思う東京都の市区町村”ランキング上位に「気持ちよく挨拶してくれる人が多い」「都会と田舎の狭間みたい」の声
+  - https://l.smartnews.com/m-8SOpRatq/an7d4v
+- Google、コーディングエージェント向けスキルのローカル検索を507MBから7MBに削減
+  - https://l.smartnews.com/m-8SJPHFp6/iSh6iM
+- Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる
+  - https://l.smartnews.com/m-8SGInwru/UkKpz8
