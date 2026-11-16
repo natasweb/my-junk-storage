@@ -100,8 +100,6 @@
   - https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode
 - Kiro の初期セットアップ後によく聞かれる設定をまとめる【IT 管理者編】
   - https://zenn.dev/aws_japan/articles/kiro-setup-for-it-admins
-- ウォッシュ加工　ハーフボタンスリット入りデニムパーカー
-  - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-lsx-jk251278
 - 裾ヒモ付き 米軍 40’s デニムデッキパーカー
   - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-gsh-hvcswy0708
 - ロイヤルホスト、冬限定パフェ3種を発売 チェリーショコラやキャラメル、金柑を使用
@@ -112,11 +110,17 @@
   - https://www.gamespark.jp/article/2026/11/15/174886.html
 - '『ファンタシースター』『ゼノギアス』に影響受けた『Lie of Caelum: Spirit』デモ版が期間限定配信中。PSX時代のJRPGを強く感じる情熱のJRPG【今週のインディー3選】'
   - https://www.gamespark.jp/article/2026/11/15/174892.html
-- Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順
-  - https://zenn.dev/happy_elements/articles/201519107f93de
 - 「歴20年ほどになりますが、とても良い街」 “本当に住みやすいと思う東京都の市区町村”ランキング上位に「気持ちよく挨拶してくれる人が多い」「都会と田舎の狭間みたい」の声
   - https://l.smartnews.com/m-8SOpRatq/an7d4v
-- Google、コーディングエージェント向けスキルのローカル検索を507MBから7MBに削減
-  - https://l.smartnews.com/m-8SJPHFp6/iSh6iM
-- Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる
-  - https://l.smartnews.com/m-8SGInwru/UkKpz8
+- ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化
+  - https://l.smartnews.com/m-8T9HiTny/ieJxe2
+- 無音NASはこんなに快適だったのか！使って分かったHDD NASとの大きな違い  ～「MINISFORUM S5」でオールフラッシュNAS生活[Sponsored]
+  - https://pc.watch.impress.co.jp/docs/topic/special/2155494.html
+- Cursor、AIコーディング履歴の認証情報流出から内部侵害 悪性「Claude Code」拡張機能配布の経緯を公表
+  - https://rocket-boys.co.jp/security-measures-lab/cursor-fireworks-ai-security-breach-claude-code-extension-followup-2026/
+- 美味しいジンギスカンと天然ジビエを買うならココ。
+  - https://www.jingisu.com/?gad_source=1&gad_campaignid=19579846218&gbraid=0AAAAADwZ5ETNT2wifUJdMVElIXG91u-NI&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5-DMlMCe1_euVlyJtnUvnnQAmrpcE3fCWsMc-Kr3GGMAS_aGDaw3caAlnfEALw_wcB
+- 超小型セキュリティキー「GoTrust アイデムキー Type A ミニ」を11月10日より新発売
+  - https://prtimes.jp/main/html/rd/p/000000003.000168843.html
+- 池袋で「卵フェス」 たまごかけごはん祭りや屋台村
+  - https://ikebukuro.keizai.biz/headline/4032/
