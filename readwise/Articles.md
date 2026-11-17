@@ -26,14 +26,10 @@
   - https://qiita.com/kamogashira/items/519a52614ba113bfe9cb
 - GitHub Actionsで「無料のLinuxデスクトップ」が立ち上がる
   - https://l.smartnews.com/m-8pckwcGk/C3qIYt
-- Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減
-  - https://gigazine.net/news/20260903-google-mantis-open-source/
 - 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
   - https://natalie.mu/comic/news/687841
 - 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
   - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
-- Kiro Crew でソフトウェアファクトリーを構築し、1 週間で 1000 件の PR をマージした方法
-  - https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/
 - 【人気記事はこちらをチェック！】
   - https://www.buzzfeed.com/jp/mayumioowada/fried-nagaimo-aonori
 - 「日本アニメ映画史に残る大傑作」「一度観たらしばらく観られなくなるくらいの衝撃」――弱冠29歳の監督が描く『我々は宇宙人』が「小学生時代の記憶の扉」をこじ開ける【レビュー】
@@ -80,10 +76,6 @@
   - https://kakuyomu.jp/works/16818622176574239988
 - わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅
   - https://gigazine.net/news/20261027-bashoudo-warabimochi/
-- AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止
-  - https://rocket-boys.co.jp/security-measures-lab/ai_coding_agents_agentsmd_downloads_prompt_injection_forever_security_20261026/
-- コードを読まずにマージするために必要なこと
-  - https://zenn.dev/nrs/articles/c777388530aa84
 - バカゲーやネタゲーの領域を通り越して，予想をはるかに超える悪ふざけに震える。「昭和米国物語」は，ぶっ飛びすぎて笑いが止まらない［プレイレポ］
   - https://l.smartnews.com/m-8LZh2tjO/rH03i1
 - 旅行の荷づくりがラクになった。DODの「3分割バッグ」は整理が苦手な私の味方
@@ -104,23 +96,53 @@
   - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-gsh-hvcswy0708
 - ロイヤルホスト、冬限定パフェ3種を発売 チェリーショコラやキャラメル、金柑を使用
   - https://www.ssnp.co.jp/foodservice/710973/
-- AIエージェントからの「確認疲れ」を減らす仕組み、別のAIが承認か差し戻しかを決定 AWS Quickが導入
-  - https://www.techno-edge.net/article/2026/11/13/5717.html
 - 完全オフライン・無制限の「日本発翻訳AI」無償公開でゲーマー向けツールも登場/総勢50人登場の『キン肉マン令和復活編』買い切りで配信/操作性にこだわった1,000回遊べるターン制ローグライクRPG『勇者ローグ』が発売【週刊スパラン11/6～】
   - https://www.gamespark.jp/article/2026/11/15/174886.html
 - '『ファンタシースター』『ゼノギアス』に影響受けた『Lie of Caelum: Spirit』デモ版が期間限定配信中。PSX時代のJRPGを強く感じる情熱のJRPG【今週のインディー3選】'
   - https://www.gamespark.jp/article/2026/11/15/174892.html
 - 「歴20年ほどになりますが、とても良い街」 “本当に住みやすいと思う東京都の市区町村”ランキング上位に「気持ちよく挨拶してくれる人が多い」「都会と田舎の狭間みたい」の声
   - https://l.smartnews.com/m-8SOpRatq/an7d4v
-- ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化
-  - https://l.smartnews.com/m-8T9HiTny/ieJxe2
 - 無音NASはこんなに快適だったのか！使って分かったHDD NASとの大きな違い  ～「MINISFORUM S5」でオールフラッシュNAS生活[Sponsored]
   - https://pc.watch.impress.co.jp/docs/topic/special/2155494.html
-- Cursor、AIコーディング履歴の認証情報流出から内部侵害 悪性「Claude Code」拡張機能配布の経緯を公表
-  - https://rocket-boys.co.jp/security-measures-lab/cursor-fireworks-ai-security-breach-claude-code-extension-followup-2026/
 - 美味しいジンギスカンと天然ジビエを買うならココ。
   - https://www.jingisu.com/?gad_source=1&gad_campaignid=19579846218&gbraid=0AAAAADwZ5ETNT2wifUJdMVElIXG91u-NI&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5-DMlMCe1_euVlyJtnUvnnQAmrpcE3fCWsMc-Kr3GGMAS_aGDaw3caAlnfEALw_wcB
-- 超小型セキュリティキー「GoTrust アイデムキー Type A ミニ」を11月10日より新発売
-  - https://prtimes.jp/main/html/rd/p/000000003.000168843.html
 - 池袋で「卵フェス」 たまごかけごはん祭りや屋台村
   - https://ikebukuro.keizai.biz/headline/4032/
+- Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開
+  - https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html
+- Google日本語入力が不満な人へ、Windows/Mac対応国産ソフト「もずきー」登場。遅延付きライブ変換とAI文脈補正を搭載、使うほど学習し自分好みに（生成AIクローズアップ）
+  - https://www.techno-edge.net/article/2026/11/17/5737.html
+- AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で
+  - https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html
+- Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定
+  - https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html
+- 「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能
+  - https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html
+- AWS、AIがフルスタックAWSアプリの基本コードを、セキュリティ、可観測性、インフラまで一気通貫で生成する「Nx Plugin for AWS 1.0」、オープンソースで公開
+  - https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html
+- MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力
+  - https://www.publickey1.jp/blog/26/mcpaihttp.html
+- Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能
+  - https://www.publickey1.jp/blog/26/goiderune.html
+- タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表
+  - https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html
+- Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール
+  - https://www.publickey1.jp/blog/26/zeddeltaai.html
+- 「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート
+  - https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html
+- npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始
+  - https://www.publickey1.jp/blog/26/npmvlt10npm.html
+- JetBrains、AIエージェントがコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表
+  - https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html
+- AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始
+  - https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html
+- フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開
+  - https://www.publickey1.jp/blog/26/vite.html
+- MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に
+  - https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html
+- AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず
+  - https://www.publickey1.jp/blog/26/awsaws_contiuumai.html
+- AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開
+  - https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html
+- あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始
+  - https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html
