@@ -108,3 +108,13 @@
   - https://l.smartnews.com/m-8TrNG6C4/JVfLvP
 - Rust製の高速なJavaScriptバンドラ「Rolldown」がバージョン1.0に到達。ビルドツールVite 8.0で採用
   - https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html
+- カード×拠点構築×オートチェス「Kingdoms Assemble」デモ版がSteamで配信！カードで国を築き、非同期PvPで覇を競え
+  - https://www.gamer.ne.jp/news/202611180038/
+- Windowsのフォント管理はこれが便利！ Windows10, 11対応、オープンソースの無料アプリ -tuna-fonts
+  - https://coliss.com/articles/build-websites/operation/work/font-manager-for-windows-tuna-fonts.html
+- 氷に閉ざされた世界で地球の覇者となれ、都留泰作が描く予測不可能な海洋SF（試し読みあり）
+  - https://natalie.mu/comic/news/698370
+- Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に
+  - https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html
+- ［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent
+  - https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html
