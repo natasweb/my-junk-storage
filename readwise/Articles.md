@@ -18,10 +18,6 @@
   - https://www.viet-jo.com/news/nikkei/260813175052.html
 - 並行開発に Orca がめちゃ便利
   - https://zenn.dev/rhosokawa/articles/d0a958c17c2820
-- 多観点で比較する Lambdalith vs 単一目的 Lambda
-  - https://dev.classmethod.jp/articles/lambdalith-vs-single-purpose-lambda/
-- 宇宙から帰還した女性飛行士に告げられた事実とは、人とアンドロイドの絆を描く読切
-  - https://natalie.mu/comic/news/687841
 - 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
   - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
 - 【人気記事はこちらをチェック！】
@@ -32,24 +28,14 @@
   - https://l.smartnews.com/m-8A9b573i/fvT2H9
 - 「何もかも便利で良かった」 東京駅30分以内で“家賃相場が安い駅”第1位に「ゆったりした空気感でストレスゼロ」「商業施設が多くて住みやすい」
   - https://l.smartnews.com/m-8AypK2Lm/PmnHja
-- 猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始
-  - https://www.4gamer.net/games/914/G091464/20260930004/
-- AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ
-  - https://www.publickey1.jp/blog/26/awsaistrandsllm.html
-- 松屋の「ほうれん草とカッテージチーズのカレー」をもっと本気のインド料理にする方法
-  - https://getnews.jp/archives/3745981
 - AWSにログインする方法8選
   - https://zenn.dev/aws_japan/articles/aws-login-methods
 - 世界中に熱狂的なファンを持つ「攻殻機動隊 THE GHOST IN THE SHELL」の公式クレジットカードを提供開始
   - https://prtimes.jp/main/html/rd/p/000000366.000073456.html
-- 魔女の終活帳 第1章
-  - https://www.manga-up.com/titles/1727
 - 『攻殻機動隊』新作アニメの制作が開始。『攻殻機動隊 THE GHOST IN THE SHELL』に続き、サイエンスSARUがアニメーション制作を担当
   - https://www.famitsu.com/article/202610/91916
 - がんばらない運動という新ジャンル。スマホを見ながら足が自動で歩くウォーキングマシンを試しました
   - https://www.lifehacker.jp/article/machi-ya-arukiwalk-review2-971237/
-- 2026年(令和8年分) 年末調整の書き方 ～今年の変更点と申告書の記入例を図解
-  - https://internet.watch.impress.co.jp/docs/special/2150472.html
 - 冤罪で7年間鉱山送りされた俺ダンジョンガチャで復讐します Re
   - https://kakuyomu.jp/works/11054822663879647251
 - 日本に日本人専用ダンジョンを作りました
@@ -60,30 +46,18 @@
   - https://kakuyomu.jp/works/16818622176574239988
 - わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅
   - https://gigazine.net/news/20261027-bashoudo-warabimochi/
-- バカゲーやネタゲーの領域を通り越して，予想をはるかに超える悪ふざけに震える。「昭和米国物語」は，ぶっ飛びすぎて笑いが止まらない［プレイレポ］
-  - https://l.smartnews.com/m-8LZh2tjO/rH03i1
 - 旅行の荷づくりがラクになった。DODの「3分割バッグ」は整理が苦手な私の味方
   - https://www.lifehacker.jp/article/2610-dod-mittsu-wakebukuro/
 - 全人類に行ってほしい「比較的行きやすい秘境温泉」が最高なんだよ / 北温泉旅館
   - https://getnews.jp/archives/3752429
-- ダンジョンRPG「デモンキルデモン 〜黄泉1984〜」，PC（Steam），PS5，PS4版を2027年2月25日に発売
-  - https://www.4gamer.net/games/056/G105626/20261106038/
-- Kiro の初期セットアップ後によく聞かれる設定をまとめる【IT 管理者編】
-  - https://zenn.dev/aws_japan/articles/kiro-setup-for-it-admins
 - 裾ヒモ付き 米軍 40’s デニムデッキパーカー
   - https://karakubuy.com/collections/sweatshirt-hoodie-1/products/krk-gsh-hvcswy0708
 - 完全オフライン・無制限の「日本発翻訳AI」無償公開でゲーマー向けツールも登場/総勢50人登場の『キン肉マン令和復活編』買い切りで配信/操作性にこだわった1,000回遊べるターン制ローグライクRPG『勇者ローグ』が発売【週刊スパラン11/6～】
   - https://www.gamespark.jp/article/2026/11/15/174886.html
-- '『ファンタシースター』『ゼノギアス』に影響受けた『Lie of Caelum: Spirit』デモ版が期間限定配信中。PSX時代のJRPGを強く感じる情熱のJRPG【今週のインディー3選】'
-  - https://www.gamespark.jp/article/2026/11/15/174892.html
 - 「歴20年ほどになりますが、とても良い街」 “本当に住みやすいと思う東京都の市区町村”ランキング上位に「気持ちよく挨拶してくれる人が多い」「都会と田舎の狭間みたい」の声
   - https://l.smartnews.com/m-8SOpRatq/an7d4v
 - 美味しいジンギスカンと天然ジビエを買うならココ。
   - https://www.jingisu.com/?gad_source=1&gad_campaignid=19579846218&gbraid=0AAAAADwZ5ETNT2wifUJdMVElIXG91u-NI&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5-DMlMCe1_euVlyJtnUvnnQAmrpcE3fCWsMc-Kr3GGMAS_aGDaw3caAlnfEALw_wcB
-- MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力
-  - https://www.publickey1.jp/blog/26/mcpaihttp.html
-- Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能
-  - https://www.publickey1.jp/blog/26/goiderune.html
 - Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール
   - https://www.publickey1.jp/blog/26/zeddeltaai.html
 - 「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート
@@ -110,11 +84,15 @@
   - https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html
 - カード×拠点構築×オートチェス「Kingdoms Assemble」デモ版がSteamで配信！カードで国を築き、非同期PvPで覇を競え
   - https://www.gamer.ne.jp/news/202611180038/
-- Windowsのフォント管理はこれが便利！ Windows10, 11対応、オープンソースの無料アプリ -tuna-fonts
-  - https://coliss.com/articles/build-websites/operation/work/font-manager-for-windows-tuna-fonts.html
-- 氷に閉ざされた世界で地球の覇者となれ、都留泰作が描く予測不可能な海洋SF（試し読みあり）
-  - https://natalie.mu/comic/news/698370
 - Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に
   - https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html
 - ［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent
   - https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html
+- 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ
+  - https://zenn.dev/kusuke/articles/98e178e6824cac
+- Kiro IDEでDev Containerを利用
+  - https://zenn.dev/smori/articles/kiro-ide-dev-container-egress-control
+- Orca Botsが良さそう、何ができるのか
+  - https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro
+- DHH氏が開発する「Omarchy 4.5」リリース。通常のマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能
+  - https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html
