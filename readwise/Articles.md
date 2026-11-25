@@ -18,8 +18,6 @@
   - https://www.viet-jo.com/news/nikkei/260813175052.html
 - 並行開発に Orca がめちゃ便利
   - https://zenn.dev/rhosokawa/articles/d0a958c17c2820
-- 【追悼】元手50万円から資産80億円超を築いた個人投資家・たーちゃん氏が死去 生前語っていた「投資を止めることはない」の真意と銘柄選びの「独自ストーリー」
-  - https://l.smartnews.com/m-8vkbZ4WY/mfjF5M
 - 【人気記事はこちらをチェック！】
   - https://www.buzzfeed.com/jp/mayumioowada/fried-nagaimo-aonori
 - 「日本アニメ映画史に残る大傑作」「一度観たらしばらく観られなくなるくらいの衝撃」――弱冠29歳の監督が描く『我々は宇宙人』が「小学生時代の記憶の扉」をこじ開ける【レビュー】
@@ -58,18 +56,8 @@
   - https://l.smartnews.com/m-8SOpRatq/an7d4v
 - 美味しいジンギスカンと天然ジビエを買うならココ。
   - https://www.jingisu.com/?gad_source=1&gad_campaignid=19579846218&gbraid=0AAAAADwZ5ETNT2wifUJdMVElIXG91u-NI&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5-DMlMCe1_euVlyJtnUvnnQAmrpcE3fCWsMc-Kr3GGMAS_aGDaw3caAlnfEALw_wcB
-- Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール
-  - https://www.publickey1.jp/blog/26/zeddeltaai.html
-- 「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート
-  - https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html
-- npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始
-  - https://www.publickey1.jp/blog/26/npmvlt10npm.html
-- JetBrains、AIエージェントがコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表
-  - https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html
 - AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始
   - https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html
-- フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開
-  - https://www.publickey1.jp/blog/26/vite.html
 - MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に
   - https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html
 - AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず
@@ -78,8 +66,6 @@
   - https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html
 - あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始
   - https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html
-- AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも
-  - https://l.smartnews.com/m-8TrNG6C4/JVfLvP
 - Rust製の高速なJavaScriptバンドラ「Rolldown」がバージョン1.0に到達。ビルドツールVite 8.0で採用
   - https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html
 - カード×拠点構築×オートチェス「Kingdoms Assemble」デモ版がSteamで配信！カードで国を築き、非同期PvPで覇を競え
@@ -96,3 +82,13 @@
   - https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro
 - DHH氏が開発する「Omarchy 4.5」リリース。通常のマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能
   - https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html
+- Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情
+  - https://ics.media/entry/261119/
+- バイブコーディングのUIを速くする技術12選。Linear・Notion・Raycastのような操作性を実装する
+  - https://koiyal.com/blog/vibe-coding-fast-ui-libraries-12
+- なぜ、 このタオルは 1枚で足りるのか？
+  - https://arpebarcelona.jp/pages/arpe-dry-1?utm_source=google&utm_medium=cpc&utm_campaign=23759068074&utm_content=824250616255&utm_term=202420645424&gad_source=1&gad_campaignid=23759068074&gbraid=0AAAAA-nUrikhLNWe_F54QHVJl6xpM7NpX&gclid=Cj0KCQiAiJXYBhD_ARIsAAx2AHnLBGLlYjQQzh4Swy2khyELTnLt822MceYvh7x4fMJcojAkII5a7NYaAoq6EALw_wcB
+- worktreeで並行作業中のエージェントを止めずに、親リポジトリで動作確認する
+  - https://zenn.dev/ncdc/articles/7199d618ad4c87
+- AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた
+  - https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/
