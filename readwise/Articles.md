@@ -92,3 +92,11 @@
   - https://zenn.dev/ncdc/articles/7199d618ad4c87
 - AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた
   - https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/
+- MCP公開から2周年！MCPサーバーでスキルも配布できる「Skills over MCP」が、Claudeでパブリックベータとして登場
+  - https://gamemakers.jp/article/2026_11_25_151764/
+- パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合
+  - https://forest.watch.impress.co.jp/docs/news/2159319.html
+- 人気美女デッキ構築型ローグライク続編『NEOVERSE 2』早期アクセス開始を12月16日に延期―意見を受けたアートの見直し＆改善へ
+  - https://www.gamespark.jp/article/2026/11/27/175348.html
+- 日本人の“相づちと間”を再現した会話AI「Haru-4B」を国内ベンチャーが無償公開。Sidon活用。電話で会話できる（生成AIクローズアップ）
+  - https://www.techno-edge.net/article/2026/11/26/5819.html
